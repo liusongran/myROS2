@@ -1,7 +1,7 @@
 # myROS2
 
 ### src
-└── two_node_pipeline
+├── two_node_pipeline
 
     ├── CMakeLists.txt                  --> demos/intra_process_demo/CMakeLists.txt
 
