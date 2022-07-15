@@ -28,7 +28,7 @@ class PublisherNode : public rclcpp::Node
 {
 public:
     PublisherNode()
-    : Node("PublisherNode"), count_(0) {
+    : Node("PublisherNode", rclcpp::NodeOptions().use_intra_process_comms(true)), count_(0) {
     publisher_ = this->create_publisher<std_msgs::msg::String>("srliu_test", 10);
     auto timer_callback =
     [this]() -> void {
@@ -55,7 +55,7 @@ class DualThreadedNode : public rclcpp::Node
 {
 public:
     DualThreadedNode()
-    : Node("DualThreadedNode")
+    : Node("DualThreadedNode", rclcpp::NodeOptions().use_intra_process_comms(true))
     {
     /* 
      * These define the callback groups
@@ -143,14 +143,22 @@ private:
 struct Consumer : public rclcpp::Node
 {
 public:
-    Consumer(const std::string & name, const std::string & input)
+    Consumer(const std::string & name)
     : Node(name, rclcpp::NodeOptions().use_intra_process_comms(true))
     {
-    // Create a subscription on the input topic which prints on receipt of new messages.
-    sub_ = this->create_subscription<std_msgs::msg::String>(
-        input,
+        callback_group_subscriber1_ = this->create_callback_group(
+        rclcpp::CallbackGroupType::MutuallyExclusive);
+        auto sub1_opt = rclcpp::SubscriptionOptions();
+        sub1_opt.callback_group = callback_group_subscriber1_;
+        sub_ = this->create_subscription<std_msgs::msg::String>(
+        "srliu_test",
         rclcpp::QoS(10),
-        &this->subscriber_cb);
+        std::bind(
+            &Consumer::subscriber_cb,
+            this,
+            std::placeholders::_1), 
+            sub1_opt
+        );
     }
 
 private:
@@ -167,7 +175,8 @@ private:
         string_thread_id().c_str(), msg->data.c_str(), message_received_at.c_str());
     }
 
-    rclcpp::Subscription<std_msgs::msg::Int32>::SharedPtr sub_;
+    rclcpp::CallbackGroup::SharedPtr callback_group_subscriber1_;
+    rclcpp::Subscription<std_msgs::msg::String>::SharedPtr sub_;
 };
 
 
@@ -179,10 +188,10 @@ int main(int argc, char * argv[])
     // You MUST use the MultiThreadedExecutor to use, well, multiple threads
     rclcpp::executors::MultiThreadedExecutor executor;
     auto pubnode = std::make_shared<PublisherNode>();
-    //auto subnode = std::make_shared<DualThreadedNode>();  // BOTH subscriber callbacks will still run on different threads
-    auto consumer0 = std::make_shared<Consumer>("consumer", "srliu_test");
-    auto consumer1 = std::make_shared<Consumer>("consumer", "srliu_test");
-    auto consumer2 = std::make_shared<Consumer>("consumer", "srliu_test");
+    
+    auto consumer0 = std::make_shared<Consumer>("consumer0");
+    auto consumer1 = std::make_shared<Consumer>("consumer1");
+    auto consumer2 = std::make_shared<Consumer>("consumer2");
 
     executor.add_node(pubnode);
     executor.add_node(consumer0);
