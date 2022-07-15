@@ -19,7 +19,7 @@ std::string string_thread_id() {
     return std::to_string(hashed);
 }
 
-/* 
+/* MARK: Node0
  * For this example, we will be creating a publishing node like the one in minimal_publisher.
  * We will have a single subscriber node running 2 threads. Each thread loops at different speeds, and
  * just repeats what it sees from the publisher to the screen.
@@ -139,6 +139,39 @@ private:
     rclcpp::Subscription<std_msgs::msg::String>::SharedPtr subscription2_;
 };
 
+// MARK: node
+struct Consumer : public rclcpp::Node
+{
+public:
+    Consumer(const std::string & name, const std::string & input)
+    : Node(name, rclcpp::NodeOptions().use_intra_process_comms(true))
+    {
+    // Create a subscription on the input topic which prints on receipt of new messages.
+    sub_ = this->create_subscription<std_msgs::msg::String>(
+        input,
+        rclcpp::QoS(10),
+        &this->subscriber_cb);
+    }
+
+private:
+    std::string timing_string() {
+        rclcpp::Time time = this->now();
+        return std::to_string(time.nanoseconds());
+    }
+
+    void subscriber_cb(const std_msgs::msg::String::UniquePtr msg) {
+    auto message_received_at = timing_string();
+    // Extract current thread
+    RCLCPP_INFO(
+        this->get_logger(), "THREAD %s => Heard '%s' at %s",
+        string_thread_id().c_str(), msg->data.c_str(), message_received_at.c_str());
+    }
+
+    rclcpp::Subscription<std_msgs::msg::Int32>::SharedPtr sub_;
+};
+
+
+
 int main(int argc, char * argv[])
 {
     rclcpp::init(argc, argv);
@@ -146,10 +179,16 @@ int main(int argc, char * argv[])
     // You MUST use the MultiThreadedExecutor to use, well, multiple threads
     rclcpp::executors::MultiThreadedExecutor executor;
     auto pubnode = std::make_shared<PublisherNode>();
-    auto subnode = std::make_shared<DualThreadedNode>();  // BOTH subscriber callbacks will still run on different threads
+    //auto subnode = std::make_shared<DualThreadedNode>();  // BOTH subscriber callbacks will still run on different threads
+    auto consumer0 = std::make_shared<Consumer>("consumer", "srliu_test");
+    auto consumer1 = std::make_shared<Consumer>("consumer", "srliu_test");
+    auto consumer2 = std::make_shared<Consumer>("consumer", "srliu_test");
 
     executor.add_node(pubnode);
-    executor.add_node(subnode);
+    executor.add_node(consumer0);
+    executor.add_node(consumer1);
+    executor.add_node(consumer2);
+    //executor.add_node(subnode);
 
     executor.spin();
     rclcpp::shutdown();
