@@ -1,0 +1,107 @@
+average rate: 499.982
+	min: 0.001s max: 0.003s std dev: 0.00018s window: 502
+average rate: 499.993
+	min: 0.001s max: 0.003s std dev: 0.00015s window: 1003
+average rate: 500.060
+	min: 0.001s max: 0.003s std dev: 0.00015s window: 1504
+average rate: 500.010
+	min: 0.001s max: 0.003s std dev: 0.00015s window: 2004
+average rate: 500.001
+	min: 0.001s max: 0.003s std dev: 0.00014s window: 2504
+average rate: 499.996
+	min: 0.001s max: 0.003s std dev: 0.00014s window: 3004
+average rate: 499.999
+	min: 0.001s max: 0.003s std dev: 0.00014s window: 3505
+average rate: 499.901
+	min: 0.001s max: 0.004s std dev: 0.00015s window: 4005
+average rate: 499.890
+	min: 0.001s max: 0.004s std dev: 0.00015s window: 4505
+average rate: 499.896
+	min: 0.001s max: 0.004s std dev: 0.00015s window: 5005
+average rate: 499.905
+	min: 0.001s max: 0.004s std dev: 0.00015s window: 5505
+average rate: 499.751
+	min: 0.001s max: 0.008s std dev: 0.00017s window: 6004
+average rate: 499.767
+	min: 0.001s max: 0.008s std dev: 0.00017s window: 6504
+average rate: 499.737
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 7005
+average rate: 499.810
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 7506
+average rate: 499.820
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 8006
+average rate: 499.823
+	min: 0.000s max: 0.008s std dev: 0.00018s window: 8506
+average rate: 499.832
+	min: 0.000s max: 0.008s std dev: 0.00018s window: 9006
+average rate: 499.841
+	min: 0.000s max: 0.008s std dev: 0.00018s window: 9507
+average rate: 499.841
+	min: 0.000s max: 0.008s std dev: 0.00018s window: 10000
+average rate: 499.840
+	min: 0.000s max: 0.008s std dev: 0.00018s window: 10000
+average rate: 499.846
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 10000
+average rate: 499.840
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 10000
+average rate: 499.842
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 10000
+average rate: 499.847
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 10000
+average rate: 499.839
+	min: 0.000s max: 0.008s std dev: 0.00019s window: 10000
+average rate: 499.845
+	min: 0.000s max: 0.008s std dev: 0.00020s window: 10000
+average rate: 499.891
+	min: 0.000s max: 0.008s std dev: 0.00020s window: 10000
+average rate: 499.898
+	min: 0.000s max: 0.008s std dev: 0.00020s window: 10000
+average rate: 499.897
+	min: 0.000s max: 0.008s std dev: 0.00020s window: 10000
+average rate: 499.896
+	min: 0.000s max: 0.008s std dev: 0.00020s window: 10000
+average rate: 499.994
+	min: 0.000s max: 0.004s std dev: 0.00019s window: 10000
+average rate: 499.992
+	min: 0.000s max: 0.004s std dev: 0.00019s window: 10000
+average rate: 499.998
+	min: 0.000s max: 0.004s std dev: 0.00019s window: 10000
+average rate: 499.998
+	min: 0.000s max: 0.004s std dev: 0.00019s window: 10000
+average rate: 499.995
+	min: 0.000s max: 0.004s std dev: 0.00021s window: 10000
+
+
+➜  myROS2 git:(main) ✗ pidstat -p 30137 1      
+Linux 5.4.0-122-generic (srliu-L480) 	07/17/2022 	_x86_64_	(8 CPU)
+
+10:23:35 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+10:23:36 AM  1000     30137   25.74    1.98    0.00    0.00   27.72     2  test_multithrea
+10:23:37 AM  1000     30137   23.00    5.00    0.00    0.00   28.00     2  test_multithrea
+10:23:38 AM  1000     30137   23.00    4.00    0.00    0.00   27.00     5  test_multithrea
+10:23:39 AM  1000     30137   22.00    5.00    0.00    0.00   27.00     5  test_multithrea
+10:23:40 AM  1000     30137   24.00    3.00    0.00    0.00   27.00     4  test_multithrea
+10:23:41 AM  1000     30137   17.00   13.00    0.00    0.00   30.00     4  test_multithrea
+10:23:42 AM  1000     30137   27.00    2.00    0.00    0.00   29.00     7  test_multithrea
+10:23:43 AM  1000     30137   22.00    5.00    0.00    0.00   27.00     4  test_multithrea
+10:23:44 AM  1000     30137   24.00    4.00    0.00    0.00   28.00     4  test_multithrea
+10:23:45 AM  1000     30137   23.00    5.00    0.00    0.00   28.00     3  test_multithrea
+10:23:46 AM  1000     30137   22.00    4.00    0.00    0.00   26.00     5  test_multithrea
+10:23:47 AM  1000     30137   26.00    3.00    0.00    0.00   29.00     6  test_multithrea
+10:23:48 AM  1000     30137   25.00    2.00    0.00    0.00   27.00     6  test_multithrea
+10:23:49 AM  1000     30137   27.00    1.00    0.00    0.00   28.00     5  test_multithrea
+10:23:50 AM  1000     30137   13.00   14.00    0.00    0.00   27.00     5  test_multithrea
+10:23:51 AM  1000     30137   20.00    7.00    0.00    0.00   27.00     3  test_multithrea
+10:23:52 AM  1000     30137   19.00    8.00    0.00    0.00   27.00     7  test_multithrea
+10:23:53 AM  1000     30137   27.00    1.00    0.00    0.00   28.00     6  test_multithrea
+10:23:54 AM  1000     30137   18.00    9.00    0.00    0.00   27.00     2  test_multithrea
+10:23:55 AM  1000     30137   27.00    0.00    0.00    0.00   27.00     7  test_multithrea
+10:23:56 AM  1000     30137   23.00    4.00    0.00    0.00   27.00     3  test_multithrea
+10:23:57 AM  1000     30137   26.00    0.00    0.00    0.00   26.00     2  test_multithrea
+10:23:58 AM  1000     30137   26.00    1.00    0.00    0.00   27.00     2  test_multithrea
+10:23:59 AM  1000     30137   26.00    1.00    0.00    0.00   27.00     6  test_multithrea
+10:24:00 AM  1000     30137   26.00    2.00    0.00    0.00   28.00     4  test_multithrea
+10:24:01 AM  1000     30137   19.00    8.00    0.00    0.00   27.00     5  test_multithrea
+10:24:02 AM  1000     30137   30.00    0.00    0.00    0.00   30.00     2  test_multithrea
+^C
+Average:     1000     30137   23.36    4.18    0.00    0.00   27.55     -  test_multithrea

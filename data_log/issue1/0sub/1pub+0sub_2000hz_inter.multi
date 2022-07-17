@@ -1,0 +1,90 @@
+average rate: 1991.383
+	min: 0.000s max: 0.002s std dev: 0.00010s window: 1993
+average rate: 1994.071
+	min: 0.000s max: 0.002s std dev: 0.00010s window: 3990
+average rate: 1995.079
+	min: 0.000s max: 0.002s std dev: 0.00009s window: 5988
+average rate: 1995.827
+	min: 0.000s max: 0.002s std dev: 0.00009s window: 7987
+average rate: 1996.661
+	min: 0.000s max: 0.002s std dev: 0.00009s window: 9988
+average rate: 1998.530
+	min: 0.000s max: 0.002s std dev: 0.00009s window: 10000
+average rate: 1998.890
+	min: 0.000s max: 0.002s std dev: 0.00009s window: 10000
+average rate: 1996.856
+	min: 0.000s max: 0.003s std dev: 0.00010s window: 10000
+average rate: 1997.266
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+average rate: 1995.931
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+average rate: 1995.324
+	min: 0.000s max: 0.003s std dev: 0.00012s window: 10000
+average rate: 1993.084
+	min: 0.000s max: 0.003s std dev: 0.00013s window: 10000
+average rate: 1995.713
+	min: 0.000s max: 0.003s std dev: 0.00012s window: 10000
+average rate: 1995.664
+	min: 0.000s max: 0.003s std dev: 0.00012s window: 10000
+average rate: 1996.801
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+average rate: 1996.429
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+average rate: 1998.901
+	min: 0.000s max: 0.003s std dev: 0.00010s window: 10000
+average rate: 1998.801
+	min: 0.000s max: 0.003s std dev: 0.00010s window: 10000
+average rate: 1998.826
+	min: 0.000s max: 0.003s std dev: 0.00010s window: 10000
+average rate: 1999.012
+	min: 0.000s max: 0.003s std dev: 0.00010s window: 10000
+average rate: 2000.374
+	min: 0.000s max: 0.002s std dev: 0.00010s window: 10000
+average rate: 2000.551
+	min: 0.000s max: 0.002s std dev: 0.00010s window: 10000
+average rate: 2000.375
+	min: 0.000s max: 0.002s std dev: 0.00010s window: 10000
+average rate: 1997.442
+	min: 0.000s max: 0.005s std dev: 0.00011s window: 10000
+average rate: 1997.255
+	min: 0.000s max: 0.005s std dev: 0.00011s window: 10000
+average rate: 1996.722
+	min: 0.000s max: 0.005s std dev: 0.00012s window: 10000
+average rate: 1996.673
+	min: 0.000s max: 0.005s std dev: 0.00012s window: 10000
+average rate: 1996.598
+	min: 0.000s max: 0.005s std dev: 0.00012s window: 10000
+average rate: 1998.124
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+average rate: 1998.054
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+average rate: 1997.686
+	min: 0.000s max: 0.003s std dev: 0.00011s window: 10000
+
+➜  myROS2 git:(main) ✗ pidstat -p 33617 1      
+Linux 5.4.0-122-generic (srliu-L480) 	07/17/2022 	_x86_64_	(8 CPU)
+
+10:35:23 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+10:35:24 AM  1000     33617   42.00    7.00    0.00    0.00   49.00     5  test_multithrea
+10:35:25 AM  1000     33617   44.00    8.00    0.00    0.00   52.00     7  test_multithrea
+10:35:26 AM  1000     33617   43.00    7.00    0.00    0.00   50.00     2  test_multithrea
+10:35:27 AM  1000     33617   45.00    7.00    0.00    0.00   52.00     2  test_multithrea
+10:35:28 AM  1000     33617   44.00    9.00    0.00    0.00   53.00     5  test_multithrea
+10:35:29 AM  1000     33617   41.00    7.00    0.00    0.00   48.00     7  test_multithrea
+10:35:30 AM  1000     33617   42.00    7.00    0.00    0.00   49.00     7  test_multithrea
+10:35:31 AM  1000     33617   40.00    8.00    0.00    0.00   48.00     2  test_multithrea
+10:35:32 AM  1000     33617   41.00    7.00    0.00    0.00   48.00     5  test_multithrea
+10:35:33 AM  1000     33617   41.00    7.00    0.00    0.00   48.00     7  test_multithrea
+10:35:34 AM  1000     33617   40.00    8.00    0.00    0.00   48.00     7  test_multithrea
+10:35:35 AM  1000     33617   39.00   10.00    0.00    0.00   49.00     4  test_multithrea
+10:35:36 AM  1000     33617   40.00    9.00    0.00    0.00   49.00     4  test_multithrea
+10:35:37 AM  1000     33617   26.00   24.00    0.00    0.00   50.00     2  test_multithrea
+10:35:38 AM  1000     33617   44.00    5.00    0.00    0.00   49.00     4  test_multithrea
+10:35:39 AM  1000     33617   47.00    3.00    0.00    0.00   50.00     2  test_multithrea
+10:35:40 AM  1000     33617   49.00    4.00    0.00    0.00   53.00     2  test_multithrea
+10:35:41 AM  1000     33617   46.00    4.00    0.00    0.00   50.00     7  test_multithrea
+10:35:42 AM  1000     33617   43.00    9.00    0.00    0.00   52.00     4  test_multithrea
+10:35:43 AM  1000     33617   44.00    7.00    0.00    0.00   51.00     4  test_multithrea
+10:35:44 AM  1000     33617   44.00    8.00    0.00    0.00   52.00     2  test_multithrea
+^C
+Average:     1000     33617   42.14    7.86    0.00    0.00   50.00     -  test_multithrea
