@@ -1,0 +1,1352 @@
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418334745885
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418335201976
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123418335210685
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123418335213875
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123418335399899
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123418335408270
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418335412967
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418335461576
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123418335468801
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123418335471148
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123418335507344
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123418335514622
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418335518646
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418335564834
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123418335571713
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123418335574033
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123418335608716
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123418335615904
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418335619724
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418335664262
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123418335677895
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123418335682262
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123418335719733
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123418335727421
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418335731598
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418335773066
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418335780993
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418501341698
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123418501404728
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123418501418160
+
+sb2_THREAD 2059268992 => Heard '180' at 1658123418501495332
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123418501524361
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123418501541521
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418501561588
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123418501799703
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123418501837523
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123419002053021
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123419002172625
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123419002195881
+
+sb2_THREAD 2059268992 => Heard '181' at 1658123419002308340
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123419002358188
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123419002389556
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123419002426820
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123419002790107
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123419002847052
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123419501447387
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123419501529958
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123419501554538
+
+sb2_THREAD 2059268992 => Heard '182' at 1658123419501665865
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123419501717924
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123419501752397
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123419501798904
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123419502099710
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123419502153506
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123420001713852
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123420001787295
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123420001808795
+
+sb2_THREAD 2059268992 => Heard '183' at 1658123420001901700
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123420001933342
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123420001953990
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123420001983718
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123420002257065
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123420002301410
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123420501713672
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123420501786422
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123420501802015
+
+sb2_THREAD 2059268992 => Heard '184' at 1658123420501884742
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123420501920452
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123420501943368
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123420501969322
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123420502233962
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123420502277469
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123421001476285
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123421001547711
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123421001569809
+
+sb2_THREAD 2059268992 => Heard '185' at 1658123421001701400
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123421001741572
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123421001776428
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123421001814389
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123421002068623
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123421002111491
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123421501436556
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123421501506941
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123421501521489
+
+sb2_THREAD 2059268992 => Heard '186' at 1658123421501601177
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123421501630424
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123421501650374
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123421501674161
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123421501924663
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123421501976796
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123422002177092
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123422002262176
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123422002281829
+
+sb2_THREAD 2059268992 => Heard '187' at 1658123422002383437
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123422002419827
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123422002443886
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123422002474382
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123422002773510
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123422002826945
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123422501506745
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123422501573476
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123422501588550
+
+sb2_THREAD 2059268992 => Heard '188' at 1658123422501667224
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123422501703062
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123422501722902
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123422501744640
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123422501976512
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123422502015346
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123423001475189
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123423001548659
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123423001563748
+
+sb2_THREAD 2059268992 => Heard '189' at 1658123423001667493
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123423001731300
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123423001807674
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123423001842815
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123423002129385
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123423002195567
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123423501479632
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123423501566364
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123423501585408
+
+sb2_THREAD 2059268992 => Heard '190' at 1658123423501690285
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123423501765035
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123423501813654
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123423501857037
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123423502136770
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123423502201891
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123424001493998
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123424001570685
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123424001593985
+
+sb2_THREAD 2059268992 => Heard '191' at 1658123424001707014
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123424001753399
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123424001781061
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123424001811941
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123424002134736
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123424002194879
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123424502046582
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123424502138998
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123424502156861
+
+sb2_THREAD 2059268992 => Heard '192' at 1658123424502252631
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123424502300076
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123424502323334
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123424502349952
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123424502628944
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123424502676802
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123425012074106
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123425012160914
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123425012178353
+
+sb2_THREAD 2059268992 => Heard '193' at 1658123425012281925
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123425012326021
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123425012348289
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123425012377156
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123425012711171
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123425012763511
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123425501434701
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123425501463935
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123425501470183
+
+sb2_THREAD 2059268992 => Heard '194' at 1658123425501511046
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123425501524901
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123425501535318
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123425501545806
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123425501671747
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123425501690173
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123426002086803
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123426002169823
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123426002186109
+
+sb2_THREAD 2059268992 => Heard '195' at 1658123426002285572
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123426002319935
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123426002350835
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123426002394859
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123426002701879
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123426002755380
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123426501542654
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123426501616391
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123426501631840
+
+sb2_THREAD 2059268992 => Heard '196' at 1658123426501721387
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123426501754031
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123426501774320
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123426501799539
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123426502050884
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123426502092854
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123427001846017
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123427001927085
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123427001943371
+
+sb2_THREAD 2059268992 => Heard '197' at 1658123427002033229
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123427002076604
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123427002105396
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123427002131407
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123427002392465
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123427002439548
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123427502190319
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123427502270597
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123427502287333
+
+sb2_THREAD 2059268992 => Heard '198' at 1658123427502383676
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123427502416974
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123427502446897
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123427502492675
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123427502799600
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123427502852355
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123428002159935
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123428002238163
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123428002254781
+
+sb2_THREAD 2059268992 => Heard '199' at 1658123428002349145
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123428002383691
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123428002406967
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123428002435544
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123428002706771
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123428002757762
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123428502159654
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123428502238690
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123428502259805
+
+sb2_THREAD 2059268992 => Heard '200' at 1658123428502358616
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123428502410146
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123428502440239
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123428502474892
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123428502771012
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123428502822001
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123429002140884
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123429002221557
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123429002238498
+
+sb2_THREAD 2059268992 => Heard '201' at 1658123429002335296
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123429002369499
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123429002391402
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123429002416599
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123429002697702
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123429002748820
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123429502218658
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123429502296008
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123429502345258
+
+sb2_THREAD 2059268992 => Heard '202' at 1658123429502436797
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123429502477569
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123429502500339
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123429502525012
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123429502796024
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123429502847967
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123430002362572
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123430002444614
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123430002462787
+
+sb2_THREAD 2059268992 => Heard '203' at 1658123430002558613
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123430002595568
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123430002646141
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123430002681003
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123430002969390
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123430003019744
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123430501625320
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123430501696520
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123430501711305
+
+sb2_THREAD 2059268992 => Heard '204' at 1658123430501794470
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123430501824145
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123430501851312
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123430501881462
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123430502126136
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123430502165992
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123431001670564
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123431001740908
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123431001755659
+
+sb2_THREAD 2059268992 => Heard '205' at 1658123431001845354
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123431001879733
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123431001899937
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123431001922530
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123431002186185
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123431002227082
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123431501687004
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123431501761276
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123431501776737
+
+sb2_THREAD 2059268992 => Heard '206' at 1658123431501878359
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123431501919323
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123431501986231
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123431502013725
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123431502279668
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123431502325932
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123432001548982
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123432001634238
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123432001650008
+
+sb2_THREAD 2059268992 => Heard '207' at 1658123432001740184
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123432001771467
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123432001791025
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123432001813271
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123432002059617
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123432002099942
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123432502252539
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123432502331325
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123432502347371
+
+sb2_THREAD 2059268992 => Heard '208' at 1658123432502437320
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123432502470160
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123432502496958
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123432502524968
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123432502788657
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123432502839010
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123433002005643
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123433002088227
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123433002105268
+
+sb2_THREAD 2059268992 => Heard '209' at 1658123433002198511
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123433002243829
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123433002268357
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123433002293687
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123433002561451
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123433002611862
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123433502210469
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123433502293630
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123433502315117
+
+sb2_THREAD 2059268992 => Heard '210' at 1658123433502421342
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123433502476102
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123433502505469
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123433502576728
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123433502880499
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123433502937180
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123434001841749
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123434001927244
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123434001948859
+
+sb2_THREAD 2059268992 => Heard '211' at 1658123434002052006
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123434002086019
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123434002113736
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123434002157478
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123434002456072
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123434002509785
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123434502310589
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123434502396827
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123434502415976
+
+sb2_THREAD 2059268992 => Heard '212' at 1658123434502513257
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123434502558404
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123434502595167
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123434502625177
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123434502919255
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123434502971652
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435012299728
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123435012398165
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123435012419661
+
+sb2_THREAD 2059268992 => Heard '213' at 1658123435012525819
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123435012577679
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123435012601935
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435012630544
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435012940326
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435012993555
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435502266749
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123435502340851
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123435502356684
+
+sb2_THREAD 2059268992 => Heard '214' at 1658123435502449036
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123435502490900
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123435502518970
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435502545686
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435502815496
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435502903646
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123436002043022
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123436002113746
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123436002128674
+
+sb2_THREAD 2059268992 => Heard '215' at 1658123436002213679
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123436002244162
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123436002266066
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123436002299606
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123436002550570
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123436002590740
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123436501895819
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123436501974728
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123436501995867
+
+sb2_THREAD 2059268992 => Heard '216' at 1658123436502106208
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123436502161250
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123436502187768
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123436502214336
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123436502521690
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123436502575898
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123437002192100
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123437002280148
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123437002298627
+
+sb2_THREAD 2059268992 => Heard '217' at 1658123437002397007
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123437002431612
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123437002461299
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123437002498224
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123437002804546
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123437002864580
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123437501182943
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123437501219868
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123437501227387
+
+sb2_THREAD 2059268992 => Heard '218' at 1658123437501269613
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123437501286591
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123437501298091
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123437501311998
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123437501470157
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123437501495543
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123438002276551
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123438002386036
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123438002403003
+
+sb2_THREAD 2059268992 => Heard '219' at 1658123438002498623
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123438002542115
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123438002565242
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123438002590794
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123438002889122
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123438002954778
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123438502274938
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123438502354319
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123438502370463
+
+sb2_THREAD 2059268992 => Heard '220' at 1658123438502465218
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123438502505344
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123438502532220
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123438502558252
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123438502860098
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123438502912056
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123439001827464
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123439001910503
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123439001926400
+
+sb2_THREAD 2059268992 => Heard '221' at 1658123439002018962
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123439002060616
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123439002083098
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123439002108267
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123439002421873
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123439002488276
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123439502203672
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123439502284486
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123439502300812
+
+sb2_THREAD 2059268992 => Heard '222' at 1658123439502396975
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123439502430470
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123439502452091
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123439502489367
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123439502765260
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123439502814620
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123440001821257
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123440001906260
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123440001922729
+
+sb2_THREAD 2059268992 => Heard '223' at 1658123440002050501
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123440002088289
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123440002111022
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123440002136552
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123440002449442
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123440002500109
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123440502244538
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123440502329519
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123440502346484
+
+sb2_THREAD 2059268992 => Heard '224' at 1658123440502441629
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123440502477991
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123440502505047
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123440502533166
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123440502807210
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123440502857327
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123441001814371
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123441001900021
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123441001922118
+
+sb2_THREAD 2059268992 => Heard '225' at 1658123441002025732
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123441002061076
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123441002084977
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123441002111052
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123441002403057
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123441002457280
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123441501797595
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123441501884139
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123441501905320
+
+sb2_THREAD 2059268992 => Heard '226' at 1658123441502005982
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123441502048768
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123441502090020
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123441502124469
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123441502412074
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123441502466773
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123442002339063
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123442002419456
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123442002441562
+
+sb2_THREAD 2059268992 => Heard '227' at 1658123442002545824
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123442002606055
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123442002641416
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123442002714250
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123442003015378
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123442003075914
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123442501822206
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123442501914609
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123442501939726
+
+sb2_THREAD 2059268992 => Heard '228' at 1658123442502091873
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123442502166092
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123442502205854
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123442502245854
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123442502611959
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123442502673079
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123443002333430
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123443002417415
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123443002442634
+
+sb2_THREAD 2059268992 => Heard '229' at 1658123443002565298
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123443002630048
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123443002671120
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123443002713110
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123443003116116
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123443003182682
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123443502389283
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123443502474599
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123443502499609
+
+sb2_THREAD 2059268992 => Heard '230' at 1658123443502618262
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123443502672577
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123443502708726
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123443502766301
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123443503182634
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123443503248051
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123444001961696
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123444002041988
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123444002064986
+
+sb2_THREAD 2059268992 => Heard '231' at 1658123444002175813
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123444002231661
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123444002265633
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123444002303596
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123444002665928
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123444002762672
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123444502271722
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123444502351822
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123444502374211
+
+sb2_THREAD 2059268992 => Heard '232' at 1658123444502485556
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123444502541997
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123444502577981
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123444502615491
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123444502989185
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123444503051607
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123445012400881
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123445012494664
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123445012519601
+
+sb2_THREAD 2059268992 => Heard '233' at 1658123445012642666
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123445012704783
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123445012742065
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123445012784389
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123445013198361
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123445013265830
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123445502240887
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123445502322261
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123445502344422
+
+sb2_THREAD 2059268992 => Heard '234' at 1658123445502457774
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123445502512917
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123445502551878
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123445502592287
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123445502961499
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123445503018430
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123446002470436
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123446002552488
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123446002578177
+
+sb2_THREAD 2059268992 => Heard '235' at 1658123446002696008
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123446002756768
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123446002822677
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123446002864703
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123446003273301
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123446003338428
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123446501667031
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123446501768415
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123446501791282
+
+sb2_THREAD 2059268992 => Heard '236' at 1658123446501900558
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123446501945420
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123446501971734
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123446502005179
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123446502347016
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123446502399457
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123447001654007
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123447001727299
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123447001746354
+
+sb2_THREAD 2059268992 => Heard '237' at 1658123447001834416
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123447001881009
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123447001905460
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123447001935296
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123447002268666
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123447002319288
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123447501751661
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123447501826796
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123447501841929
+
+sb2_THREAD 2059268992 => Heard '238' at 1658123447501929797
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123447501966903
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123447501994655
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123447502025127
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123447502307662
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123447502353115
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123448001703748
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123448001788250
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123448001806420
+
+sb2_THREAD 2059268992 => Heard '239' at 1658123448001896744
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123448001940881
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123448001979185
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123448002010682
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123448002278717
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123448002321867
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123448501430374
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123448501478545
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123448501492022
+
+sb2_THREAD 2059268992 => Heard '240' at 1658123448501579937
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123448501616482
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123448501649742
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123448501666627
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123448501835501
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123448501852174
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123449001697270
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123449001758803
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123449001772349
+
+sb2_THREAD 2059268992 => Heard '241' at 1658123449001847691
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123449001886923
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123449001906243
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123449001930494
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123449002161765
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123449002202199
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123449501758336
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123449501828613
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123449501843412
+
+sb2_THREAD 2059268992 => Heard '242' at 1658123449501926517
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123449501955921
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123449501974389
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123449501997217
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123449502239226
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123449502278404
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123450001701519
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123450001762510
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123450001776452
+
+sb2_THREAD 2059268992 => Heard '243' at 1658123450001850744
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123450001893547
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123450001914661
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123450001937942
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123450002162816
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123450002204926
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123450501147991
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123450501171666
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123450501177130
+
+sb2_THREAD 2059268992 => Heard '244' at 1658123450501230372
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123450501243294
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123450501262569
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123450501272380
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123450501390318
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123450501402571
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123451001657918
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123451001721996
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123451001736382
+
+sb2_THREAD 2059268992 => Heard '245' at 1658123451001810435
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123451001869865
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123451001888369
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123451001910274
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123451002139038
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123451002184100
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123451501901904
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123451501984090
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123451502006639
+
+sb2_THREAD 2059268992 => Heard '246' at 1658123451502113023
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123451502159081
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123451502188799
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123451502244258
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123451502604214
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123451502662568
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123452001053931
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123452001075334
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123452001080773
+
+sb2_THREAD 2059268992 => Heard '247' at 1658123452001118818
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123452001140567
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123452001149649
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123452001159549
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123452001253816
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123452001267897
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123452501227548
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123452501261152
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123452501269432
+
+sb2_THREAD 2059268992 => Heard '248' at 1658123452501312591
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123452501330577
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123452501340742
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123452501353097
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123452501550781
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123452501572742
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123453001145732
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123453001174872
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123453001181264
+
+sb2_THREAD 2059268992 => Heard '249' at 1658123453001219604
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123453001234155
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123453001243093
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123453001254141
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123453001376687
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123453001391956
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123453501750203
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123453501830653
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123453501853077
+
+sb2_THREAD 2059268992 => Heard '250' at 1658123453501949829
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123453501991538
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123453502029612
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123453502061539
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123453502390662
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123453502430970
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123454002048967
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123454002136918
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123454002161683
+
+sb2_THREAD 2059268992 => Heard '251' at 1658123454002270354
+
+|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123454002319513
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123454002352863
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123454002392859
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123454002745021
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123454002797899
+
+|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123454261140270
