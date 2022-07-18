@@ -1,0 +1,4113 @@
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129768776152
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129768826949
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129768832057
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129768889204
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129771083631
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129771102590
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129771106209
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129771137234
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129771212197
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129771222490
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129771225397
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129771237708
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129771302685
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129771312559
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129771315399
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129771327310
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129771391814
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129771401628
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129771404462
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129771415945
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129776647371
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129776667239
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129776670572
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129776686059
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129778019327
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129778033228
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129778036267
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129778051105
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129778120050
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129778130179
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129778133062
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129778146235
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129778211740
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129778221718
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129778224568
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129778237771
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379129778302908
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379129778313045
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379129778315889
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379129778328282
+++++++++++++start++++++++++++++
+
+pb1_THREAD -284064896 => Publishing '0' at 1657379134772486699
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379134772572447
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379134772604026
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379134772613877
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379134772652053
+
+sb1_THREAD -284064896 => Heard '0' at 1657379134773046022
+
+pb1_THREAD -284064896 => Publishing '1' at 1657379139772359906
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379139772426932
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379139772462958
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379139772473928
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379139772515478
+
+sb1_THREAD -284064896 => Heard '1' at 1657379139772926853
+
+pb1_THREAD -284064896 => Publishing '2' at 1657379144772405892
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379144772509987
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379144772548179
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379144772557471
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379144772604323
+
+sb1_THREAD -284064896 => Heard '2' at 1657379144773036196
+
+pb1_THREAD -284064896 => Publishing '3' at 1657379149772583991
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379149772660043
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379149772693925
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379149772704635
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379149772745171
+
+sb1_THREAD -284064896 => Heard '3' at 1657379149773144634
+
+pb1_THREAD -284064896 => Publishing '4' at 1657379154772545193
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379154772612241
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379154772642339
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379154772652016
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379154772691174
+
+sb1_THREAD -284064896 => Heard '4' at 1657379154773085813
+
+pb1_THREAD -284064896 => Publishing '5' at 1657379159772545061
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379159772616253
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379159772647811
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379159772658390
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379159772697711
+
+sb1_THREAD -284064896 => Heard '5' at 1657379159773091149
+
+pb1_THREAD -284064896 => Publishing '6' at 1657379164772513351
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379164772591409
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379164772624127
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379164772646017
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379164772688949
+
+sb1_THREAD -284064896 => Heard '6' at 1657379164773106459
+
+pb1_THREAD -284064896 => Publishing '7' at 1657379169772396344
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379169772469575
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379169772501721
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379169772545871
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379169772590351
+
+sb1_THREAD -284064896 => Heard '7' at 1657379169773022077
+
+pb1_THREAD -284064896 => Publishing '8' at 1657379174772484131
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379174772557772
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379174772590422
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379174772611049
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379174772654743
+
+sb1_THREAD -284064896 => Heard '8' at 1657379174773064784
+
+pb1_THREAD -284064896 => Publishing '9' at 1657379179772445526
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379179772517874
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379179772550753
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379179772570586
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379179772613027
+
+sb1_THREAD -284064896 => Heard '9' at 1657379179773016804
+
+pb1_THREAD -284064896 => Publishing '10' at 1657379184772258848
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379184772331265
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379184772363581
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379184772384213
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379184772428217
+
+sb1_THREAD -284064896 => Heard '10' at 1657379184772851096
+
+pb1_THREAD -284064896 => Publishing '11' at 1657379189772200767
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379189772267567
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379189772302007
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379189772325150
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379189772371313
+
+sb1_THREAD -284064896 => Heard '11' at 1657379189772805004
+
+pb1_THREAD -284064896 => Publishing '12' at 1657379194772200974
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379194772262672
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379194772293688
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379194772311243
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379194772351220
+
+sb1_THREAD -284064896 => Heard '12' at 1657379194772719077
+
+pb1_THREAD -284064896 => Publishing '13' at 1657379199772318771
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379199772389009
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379199772419996
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379199772439652
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379199772480937
+
+sb1_THREAD -284064896 => Heard '13' at 1657379199772884274
+
+pb1_THREAD -284064896 => Publishing '14' at 1657379204772366436
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379204772440067
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379204772474433
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379204772504682
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379204772547167
+
+sb1_THREAD -284064896 => Heard '14' at 1657379204772961486
+
+pb1_THREAD -284064896 => Publishing '15' at 1657379209772335511
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379209772404169
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379209772435317
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379209772445159
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379209772483899
+
+sb1_THREAD -284064896 => Heard '15' at 1657379209772901243
+
+pb1_THREAD -284064896 => Publishing '16' at 1657379214772252390
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379214772323107
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379214772354660
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379214772364932
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379214772404959
+
+sb1_THREAD -284064896 => Heard '16' at 1657379214772796680
+
+pb1_THREAD -284064896 => Publishing '17' at 1657379219772146395
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379219772214468
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379219772245452
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379219772255469
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379219772294602
+
+sb1_THREAD -284064896 => Heard '17' at 1657379219772685944
+
+pb1_THREAD -284064896 => Publishing '18' at 1657379224772276461
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379224772347733
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379224772378509
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379224772398711
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379224772441957
+
+sb1_THREAD -284064896 => Heard '18' at 1657379224772846589
+
+pb1_THREAD -284064896 => Publishing '19' at 1657379229772244217
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379229772312916
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379229772344394
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379229772365637
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379229772407047
+
+sb1_THREAD -284064896 => Heard '19' at 1657379229772813550
+
+pb1_THREAD -284064896 => Publishing '20' at 1657379234772237954
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379234772306888
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379234772338162
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379234772358278
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379234772400096
+
+sb1_THREAD -284064896 => Heard '20' at 1657379234772814574
+
+pb1_THREAD -284064896 => Publishing '21' at 1657379239771981940
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379239772054143
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379239772085988
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379239772104275
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379239772146213
+
+sb1_THREAD -284064896 => Heard '21' at 1657379239772523830
+
+pb1_THREAD -284064896 => Publishing '22' at 1657379244771976666
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379244772042548
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379244772075044
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379244772085461
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379244772125341
+
+sb1_THREAD -284064896 => Heard '22' at 1657379244772496063
+
+pb1_THREAD -284064896 => Publishing '23' at 1657379249771997646
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379249772060209
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379249772090304
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379249772109944
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379249772172974
+
+sb1_THREAD -284064896 => Heard '23' at 1657379249772540885
+
+pb1_THREAD -284064896 => Publishing '24' at 1657379254772141776
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379254772215283
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379254772250244
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379254772270366
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379254772313661
+
+sb1_THREAD -284064896 => Heard '24' at 1657379254772726524
+
+pb1_THREAD -284064896 => Publishing '25' at 1657379259772125691
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379259772196482
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379259772230644
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379259772631922
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379259772699439
+
+sb1_THREAD -284064896 => Heard '25' at 1657379259773124230
+
+pb1_THREAD -284064896 => Publishing '26' at 1657379264772062234
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379264772133837
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379264772164781
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379264772669091
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379264772743231
+
+sb1_THREAD -284064896 => Heard '26' at 1657379264773183521
+
+pb1_THREAD -284064896 => Publishing '27' at 1657379269772054277
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379269772128214
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379269772159502
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379269772178169
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379269772220210
+
+sb1_THREAD -284064896 => Heard '27' at 1657379269772622130
+
+pb1_THREAD -284064896 => Publishing '28' at 1657379274771880322
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379274771951009
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379274771982494
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379274772001283
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379274772041854
+
+sb1_THREAD -284064896 => Heard '28' at 1657379274772409462
+
+pb1_THREAD -284064896 => Publishing '29' at 1657379279772031651
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379279772101405
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379279772132770
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379279772649511
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379279772722417
+
+sb1_THREAD -284064896 => Heard '29' at 1657379279773160021
+
+pb1_THREAD -284064896 => Publishing '30' at 1657379284772114580
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379284772187016
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379284772218523
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379284772238033
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379284772279518
+
+sb1_THREAD -284064896 => Heard '30' at 1657379284772684644
+
+pb1_THREAD -284064896 => Publishing '31' at 1657379289772103260
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379289772175283
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379289772244752
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379289772257404
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379289772300247
+
+sb1_THREAD -284064896 => Heard '31' at 1657379289772709500
+
+pb1_THREAD -284064896 => Publishing '32' at 1657379294772155180
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379294772237500
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379294772271147
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379294772291839
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379294772336777
+
+sb1_THREAD -284064896 => Heard '32' at 1657379294772786783
+
+pb1_THREAD -284064896 => Publishing '33' at 1657379299771699601
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379299771772178
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379299771803881
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379299771823636
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379299771864113
+
+sb1_THREAD -284064896 => Heard '33' at 1657379299772236417
+
+pb1_THREAD -284064896 => Publishing '34' at 1657379304771721612
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379304771794395
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379304771829016
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379304772266043
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379304772331241
+
+sb1_THREAD -284064896 => Heard '34' at 1657379304772753264
+
+pb1_THREAD -284064896 => Publishing '35' at 1657379309771713023
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379309771781243
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379309771812441
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379309771831570
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379309771871517
+
+sb1_THREAD -284064896 => Heard '35' at 1657379309772241661
+
+pb1_THREAD -284064896 => Publishing '36' at 1657379314771831387
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379314771911753
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379314771976076
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379314771989021
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379314772026904
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379314772038388
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379314772239421
+
+sb1_THREAD -284064896 => Heard '36' at 1657379314772883016
+
+pb1_THREAD -284064896 => Publishing '37' at 1657379319771819205
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379319771895796
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379319771928040
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379319772434588
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379319772498156
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379319772511999
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379319772673896
+
+sb1_THREAD -284064896 => Heard '37' at 1657379319773282805
+
+pb1_THREAD -284064896 => Publishing '38' at 1657379324771783810
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379324771880625
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379324771920357
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379324771932383
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379324771970023
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379324771981671
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379324772143855
+
+sb1_THREAD -284064896 => Heard '38' at 1657379324772771131
+
+pb1_THREAD -284064896 => Publishing '39' at 1657379329771760175
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379329771829510
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379329771862912
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379329772222067
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379329772272437
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379329772284353
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379329772428034
+
+sb1_THREAD -284064896 => Heard '39' at 1657379329772976419
+
+pb1_THREAD -284064896 => Publishing '40' at 1657379334771939875
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379334772014449
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379334772047006
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379334772066840
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379334772107178
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379334772118956
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379334772316719
+
+sb1_THREAD -284064896 => Heard '40' at 1657379334772983359
+
+pb1_THREAD -284064896 => Publishing '41' at 1657379339771718137
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379339771798368
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379339771861313
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379339771874304
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379339771913944
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379339771928076
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379339772097714
+
+sb1_THREAD -284064896 => Heard '41' at 1657379339772737086
+
+pb1_THREAD -284064896 => Publishing '42' at 1657379344771877717
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379344771954624
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379344771986917
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379344772006073
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379344772046314
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379344772058546
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379344772221744
+
+sb1_THREAD -284064896 => Heard '42' at 1657379344772871685
+
+pb1_THREAD -284064896 => Publishing '43' at 1657379349771611942
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379349771684979
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379349771717488
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379349772160121
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379349772227013
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379349772240782
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379349772412325
+
+sb1_THREAD -284064896 => Heard '43' at 1657379349772992362
+
+pb1_THREAD -284064896 => Publishing '44' at 1657379354771452623
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379354771521836
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379354771553292
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379354771969556
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379354772027323
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379354772039884
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379354772196520
+
+sb1_THREAD -284064896 => Heard '44' at 1657379354772704485
+
+pb1_THREAD -284064896 => Publishing '45' at 1657379359771578410
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379359771650618
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379359771681711
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379359771702969
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379359771742438
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379359771755020
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379359771924936
+
+sb1_THREAD -284064896 => Heard '45' at 1657379359772530989
+
+pb1_THREAD -284064896 => Publishing '46' at 1657379364771415650
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379364771485227
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379364771517878
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379364771538974
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379364771579904
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379364771593149
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379364771770274
+
+sb1_THREAD -284064896 => Heard '46' at 1657379364772378660
+
+pb1_THREAD -284064896 => Publishing '47' at 1657379369771540139
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379369771612601
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379369771644736
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379369772066866
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379369772133027
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379369772146824
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379369772298566
+
+sb1_THREAD -284064896 => Heard '47' at 1657379369772853482
+
+pb1_THREAD -284064896 => Publishing '48' at 1657379374771512294
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379374771592757
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379374772131384
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379374772157161
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379374772200607
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379374772234842
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379374772396137
+
+sb1_THREAD -284064896 => Heard '48' at 1657379374772932842
+
+pb1_THREAD -284064896 => Publishing '49' at 1657379379771478521
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379379771549687
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379379771582441
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379379772031773
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379379772095126
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379379772108710
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379379772275294
+
+sb1_THREAD -284064896 => Heard '49' at 1657379379772824226
+
+pb1_THREAD -284064896 => Publishing '50' at 1657379384771657783
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379384771731051
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379384771762482
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379384771782513
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379384771822840
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379384771834231
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379384772002584
+
+sb1_THREAD -284064896 => Heard '50' at 1657379384772609025
+
+pb1_THREAD -284064896 => Publishing '51' at 1657379389771434701
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379389771510352
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379389771543837
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379389771563942
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379389771604506
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379389771617537
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379389771789402
+
+sb1_THREAD -284064896 => Heard '51' at 1657379389772396496
+
+pb1_THREAD -284064896 => Publishing '52' at 1657379394771604035
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379394771677309
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379394771710250
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379394771730835
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379394771770980
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379394771783923
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379394771956394
+
+sb1_THREAD -284064896 => Heard '52' at 1657379394772558072
+
+pb1_THREAD -284064896 => Publishing '53' at 1657379399771359797
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379399771429868
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379399771465823
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379399771488508
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379399771529338
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379399771543366
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379399771719975
+
+sb1_THREAD -284064896 => Heard '53' at 1657379399772713095
+
+pb1_THREAD -284064896 => Publishing '54' at 1657379404771168427
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379404771240638
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379404771275493
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379404771296920
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379404771342233
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379404771356608
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379404771540904
+
+sb1_THREAD -284064896 => Heard '54' at 1657379404772123169
+
+pb1_THREAD -284064896 => Publishing '55' at 1657379409771155215
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379409771227240
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379409771287915
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379409771299474
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379409771336102
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379409771346524
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379409771471909
+
+sb1_THREAD -284064896 => Heard '55' at 1657379409771972443
+
+pb1_THREAD -284064896 => Publishing '56' at 1657379414771137329
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379414771207295
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379414771240429
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379414771260358
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379414771298955
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379414771311141
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379414771468381
+
+sb1_THREAD -284064896 => Heard '56' at 1657379414771972833
+
+pb1_THREAD -284064896 => Publishing '57' at 1657379419771118193
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379419771191157
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379419771225912
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379419771245559
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379419771286272
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379419771299439
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379419771470668
+
+sb1_THREAD -284064896 => Heard '57' at 1657379419772068986
+
+pb1_THREAD -284064896 => Publishing '58' at 1657379424771087302
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379424771165459
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379424771197950
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379424771218532
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379424771258863
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379424771271696
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379424771442327
+
+sb1_THREAD -284064896 => Heard '58' at 1657379424772043360
+
+pb1_THREAD -284064896 => Publishing '59' at 1657379429771055675
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379429771127946
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379429771667920
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379429771694148
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379429771735919
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379429771746995
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379429771904414
+
+sb1_THREAD -284064896 => Heard '59' at 1657379429772449463
+
+pb1_THREAD -284064896 => Publishing '60' at 1657379434771282696
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379434771359020
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379434771391336
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379434771411061
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379434771450576
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379434771462414
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379434771630218
+
+sb1_THREAD -284064896 => Heard '60' at 1657379434772231682
+
+pb1_THREAD -284064896 => Publishing '61' at 1657379439771121574
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379439771199452
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379439771235169
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379439771254541
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379439771295612
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379439771307908
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379439771479941
+
+sb1_THREAD -284064896 => Heard '61' at 1657379439772079766
+
+pb1_THREAD -284064896 => Publishing '62' at 1657379444771084116
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379444771153593
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379444771185589
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379444771230228
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379444771273841
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379444771286578
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379444771452862
+
+sb1_THREAD -284064896 => Heard '62' at 1657379444772056167
+
+pb1_THREAD -284064896 => Publishing '63' at 1657379449770896845
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379449770956361
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379449770988128
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379449770997586
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379449771033247
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379449771043817
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379449771168325
+
+sb1_THREAD -284064896 => Heard '63' at 1657379449771671419
+
+pb1_THREAD -284064896 => Publishing '64' at 1657379454771239596
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379454771313458
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379454771369728
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379454771391248
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379454771462259
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379454771476431
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379454771727154
+
+sb1_THREAD -284064896 => Heard '64' at 1657379454772359113
+
+pb1_THREAD -284064896 => Publishing '65' at 1657379459770844396
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379459770920663
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379459770955652
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379459770979077
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379459771023535
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379459771038853
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379459771224544
+
+sb1_THREAD -284064896 => Heard '65' at 1657379459771777042
+
+pb1_THREAD -284064896 => Publishing '66' at 1657379464770825375
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379464770890279
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379464770920102
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379464770938322
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379464770976222
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379464770987331
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379464771140986
+
+sb1_THREAD -284064896 => Heard '66' at 1657379464771638800
+
+pb1_THREAD -284064896 => Publishing '67' at 1657379469770792459
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379469770863648
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379469770926865
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379469770939287
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379469770976699
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379469770989075
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379469771156873
+
+sb1_THREAD -284064896 => Heard '67' at 1657379469771753134
+
+pb1_THREAD -284064896 => Publishing '68' at 1657379474770764825
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379474770834388
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379474770865863
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379474770885888
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379474770924587
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379474770937116
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379474771110890
+
+sb1_THREAD -284064896 => Heard '68' at 1657379474771713220
+
+pb1_THREAD -284064896 => Publishing '69' at 1657379479770737800
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379479770806767
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379479770838330
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379479770858504
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379479770898512
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379479770910095
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379479771098910
+
+sb1_THREAD -284064896 => Heard '69' at 1657379479771698613
+
+pb1_THREAD -284064896 => Publishing '70' at 1657379484771009058
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379484771079433
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379484771112891
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379484771133279
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379484771174331
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379484771187159
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379484771360455
+
+sb1_THREAD -284064896 => Heard '70' at 1657379484771943177
+
+pb1_THREAD -284064896 => Publishing '71' at 1657379489771008146
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379489771085743
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379489771117743
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379489771136779
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379489771177862
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379489771191266
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379489771314456
+
+sb1_THREAD -284064896 => Heard '71' at 1657379489771902093
+
+pb1_THREAD -284064896 => Publishing '72' at 1657379494770893358
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379494770969870
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379494771001269
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379494771021505
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379494771063500
+
+sb1_THREAD -284064896 => Heard '72' at 1657379494771558108
+
+pb1_THREAD -284064896 => Publishing '73' at 1657379499770853792
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379499770924821
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379499770956756
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379499770977806
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379499771020103
+
+sb1_THREAD -284064896 => Heard '73' at 1657379499771423263
+
+pb1_THREAD -284064896 => Publishing '74' at 1657379504770909490
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379504770985395
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379504771018400
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379504771036678
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379504771079478
+
+sb1_THREAD -284064896 => Heard '74' at 1657379504771547159
+
+pb1_THREAD -284064896 => Publishing '75' at 1657379509770551669
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379509770641107
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379509770706233
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379509770720126
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379509770766410
+
+sb1_THREAD -284064896 => Heard '75' at 1657379509771314066
+
+pb1_THREAD -284064896 => Publishing '76' at 1657379514770475680
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379514770544682
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379514770576332
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379514770617827
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379514770659632
+
+sb1_THREAD -284064896 => Heard '76' at 1657379514771070861
+
+pb1_THREAD -284064896 => Publishing '77' at 1657379519770514359
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379519770582891
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379519770612705
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379519770630994
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379519770671066
+
+sb1_THREAD -284064896 => Heard '77' at 1657379519771028233
+
+pb1_THREAD -284064896 => Publishing '78' at 1657379524770421460
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379524770493931
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379524770528575
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379524770546999
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379524770589642
+
+sb1_THREAD -284064896 => Heard '78' at 1657379524770999343
+
+pb1_THREAD -284064896 => Publishing '79' at 1657379529770417475
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379529770495485
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379529770558784
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379529770571996
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379529770612954
+
+sb1_THREAD -284064896 => Heard '79' at 1657379529771018368
+
+pb1_THREAD -284064896 => Publishing '80' at 1657379534770389676
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379534770461814
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379534770493457
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379534770512055
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379534770554793
+
+sb1_THREAD -284064896 => Heard '80' at 1657379534770967019
+
+pb1_THREAD -284064896 => Publishing '81' at 1657379539770422147
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379539770498928
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379539770534388
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379539770554443
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379539770597193
+
+sb1_THREAD -284064896 => Heard '81' at 1657379539771004404
+
+pb1_THREAD -284064896 => Publishing '82' at 1657379544770319544
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379544770387778
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379544770419943
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379544770439908
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379544770482213
+
+sb1_THREAD -284064896 => Heard '82' at 1657379544770897159
+
+pb1_THREAD -284064896 => Publishing '83' at 1657379549770633255
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379549770704273
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379549770735632
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379549770756174
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379549770799024
+
+sb1_THREAD -284064896 => Heard '83' at 1657379549771208176
+
+pb1_THREAD -284064896 => Publishing '84' at 1657379554770585619
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379554770686820
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379554770728007
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379554770739610
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379554770781989
+
+sb1_THREAD -284064896 => Heard '84' at 1657379554771195942
+
+pb1_THREAD -284064896 => Publishing '85' at 1657379559770405068
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379559770475961
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379559770508192
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379559770945737
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379559771011276
+
+sb1_THREAD -284064896 => Heard '85' at 1657379559771453742
+
+pb1_THREAD -284064896 => Publishing '86' at 1657379564770500761
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379564770572317
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379564770603267
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379564771022655
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379564771102844
+
+sb1_THREAD -284064896 => Heard '86' at 1657379564771567547
+
+pb1_THREAD -284064896 => Publishing '87' at 1657379569770110088
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379569770172235
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379569770201742
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379569770221320
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379569770260862
+
+sb1_THREAD -284064896 => Heard '87' at 1657379569770623173
+
+pb1_THREAD -284064896 => Publishing '88' at 1657379574770118221
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379574770186311
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379574770236546
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379574770247982
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379574770287690
+
+sb1_THREAD -284064896 => Heard '88' at 1657379574770668024
+
+pb1_THREAD -284064896 => Publishing '89' at 1657379579770011106
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379579770082024
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379579770113102
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379579770132625
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379579770175352
+
+sb1_THREAD -284064896 => Heard '89' at 1657379579770579811
+
+pb1_THREAD -284064896 => Publishing '90' at 1657379584769979933
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379584770051192
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379584770082203
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379584770101172
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379584770143085
+
+sb1_THREAD -284064896 => Heard '90' at 1657379584770546935
+
+pb1_THREAD -284064896 => Publishing '91' at 1657379589769951729
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379589770024954
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379589770057026
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379589770076282
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379589770118928
+
+sb1_THREAD -284064896 => Heard '91' at 1657379589770555917
+
+pb1_THREAD -284064896 => Publishing '92' at 1657379594769943862
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379594770012059
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379594770042688
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379594770062896
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379594770104158
+
+sb1_THREAD -284064896 => Heard '92' at 1657379594770517596
+
+pb1_THREAD -284064896 => Publishing '93' at 1657379599769887287
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379599769959860
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379599769991547
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379599770011661
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379599770054058
+
+sb1_THREAD -284064896 => Heard '93' at 1657379599770468847
+
+pb1_THREAD -284064896 => Publishing '94' at 1657379604770135027
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379604770205351
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379604770236476
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379604770745139
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379604770821377
+
+sb1_THREAD -284064896 => Heard '94' at 1657379604771263718
+
+pb1_THREAD -284064896 => Publishing '95' at 1657379609770225799
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379609770302897
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379609770338501
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379609770358325
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379609770401089
+
+sb1_THREAD -284064896 => Heard '95' at 1657379609770806328
+
+pb1_THREAD -284064896 => Publishing '96' at 1657379614770087854
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379614770165652
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379614770246462
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379614770259383
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379614770301675
+
+sb1_THREAD -284064896 => Heard '96' at 1657379614770738068
+
+pb1_THREAD -284064896 => Publishing '97' at 1657379619769802346
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379619769877518
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379619770454504
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379619770487351
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379619770533716
+
+sb1_THREAD -284064896 => Heard '97' at 1657379619770976671
+
+pb1_THREAD -284064896 => Publishing '98' at 1657379624769776217
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379624769845597
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379624769876056
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379624769895133
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379624769934515
+
+sb1_THREAD -284064896 => Heard '98' at 1657379624770381944
+
+pb1_THREAD -284064896 => Publishing '99' at 1657379629769821584
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379629769894828
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379629769925990
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379629770297557
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379629770388826
+
+sb1_THREAD -284064896 => Heard '99' at 1657379629770815829
+
+pb1_THREAD -284064896 => Publishing '100' at 1657379634769841629
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379634769912418
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379634769943612
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379634770347880
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379634770415306
+
+sb1_THREAD -284064896 => Heard '100' at 1657379634770839383
+
+pb1_THREAD -284064896 => Publishing '101' at 1657379639769882848
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379639769958058
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379639769993556
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379639770012942
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379639770057585
+
+sb1_THREAD -284064896 => Heard '101' at 1657379639770510707
+
+pb1_THREAD -284064896 => Publishing '102' at 1657379644769824920
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379644769898029
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379644769929374
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379644769948880
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379644769992302
+
+sb1_THREAD -284064896 => Heard '102' at 1657379644770480710
+
+pb1_THREAD -284064896 => Publishing '103' at 1657379649769913013
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379649769985126
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379649770017823
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379649770038492
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379649770080000
+
+sb1_THREAD -284064896 => Heard '103' at 1657379649770573274
+
+pb1_THREAD -284064896 => Publishing '104' at 1657379654769776899
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379654769849229
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379654769880565
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379654770293585
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379654770362665
+
+sb1_THREAD -284064896 => Heard '104' at 1657379654770786389
+
+pb1_THREAD -284064896 => Publishing '105' at 1657379659769839123
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379659769913654
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379659769949304
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379659770465779
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379659770534763
+
+sb1_THREAD -284064896 => Heard '105' at 1657379659770961225
+
+pb1_THREAD -284064896 => Publishing '106' at 1657379664769669717
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379664769745626
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379664769781405
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379664769801376
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379664769843577
+
+sb1_THREAD -284064896 => Heard '106' at 1657379664770299973
+
+pb1_THREAD -284064896 => Publishing '107' at 1657379669769661337
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379669769734431
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379669769768039
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379669769809847
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379669769875389
+
+sb1_THREAD -284064896 => Heard '107' at 1657379669770446287
+
+pb1_THREAD -284064896 => Publishing '108' at 1657379674769309180
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379674769403238
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379674769445282
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379674769467028
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379674769513251
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379674769529232
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379674769707712
+
+sb1_THREAD -284064896 => Heard '108' at 1657379674770314793
+
+pb1_THREAD -284064896 => Publishing '109' at 1657379679769482560
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379679769551070
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379679769584179
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379679770232582
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379679770311252
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379679770323962
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379679770494027
+
+sb1_THREAD -284064896 => Heard '109' at 1657379679771111681
+
+pb1_THREAD -284064896 => Publishing '110' at 1657379684769515444
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379684769594866
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379684769660595
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379684769672734
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379684769712127
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379684769724141
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379684769885552
+
+sb1_THREAD -284064896 => Heard '110' at 1657379684770476318
+
+pb1_THREAD -284064896 => Publishing '111' at 1657379689769513061
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379689769587273
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379689769618676
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379689769637982
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379689769679384
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379689769692049
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379689769843053
+
+sb1_THREAD -284064896 => Heard '111' at 1657379689770437597
+
+pb1_THREAD -284064896 => Publishing '112' at 1657379694769472100
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379694769544833
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379694769576105
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379694769595370
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379694769635943
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379694769649526
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379694769817840
+
+sb1_THREAD -284064896 => Heard '112' at 1657379694770451858
+
+pb1_THREAD -284064896 => Publishing '113' at 1657379699769448031
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379699769520681
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379699769554275
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379699769575384
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379699769615665
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379699769628315
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379699769795575
+
+sb1_THREAD -284064896 => Heard '113' at 1657379699770388508
+
+pb1_THREAD -284064896 => Publishing '114' at 1657379704769426972
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379704769498198
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379704769530342
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379704769550378
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379704769590784
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379704769603317
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379704769770580
+
+sb1_THREAD -284064896 => Heard '114' at 1657379704770356277
+
+pb1_THREAD -284064896 => Publishing '115' at 1657379709769368773
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379709769441398
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379709769472807
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379709769493196
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379709769532881
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379709769545705
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379709769715396
+
+sb1_THREAD -284064896 => Heard '115' at 1657379709770330158
+
+pb1_THREAD -284064896 => Publishing '116' at 1657379714769277426
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379714769364143
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379714769404752
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379714769415132
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379714769454001
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379714769475872
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379714769651511
+
+sb1_THREAD -284064896 => Heard '116' at 1657379714770258132
+
+pb1_THREAD -284064896 => Publishing '117' at 1657379719769397383
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379719769475163
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379719769508441
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379719769528502
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379719769568762
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379719769582019
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379719769751156
+
+sb1_THREAD -284064896 => Heard '117' at 1657379719770340352
+
+pb1_THREAD -284064896 => Publishing '118' at 1657379724769228035
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379724769299523
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379724769395652
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379724769411860
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379724769452753
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379724769465199
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379724769681207
+
+sb1_THREAD -284064896 => Heard '118' at 1657379724770796529
+
+pb1_THREAD -284064896 => Publishing '119' at 1657379729768945835
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379729769008975
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379729769039478
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379729769048916
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379729769085224
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379729769095857
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379729769241831
+
+sb1_THREAD -284064896 => Heard '119' at 1657379729769779869
+
+pb1_THREAD -284064896 => Publishing '120' at 1657379734769084394
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379734769153055
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379734769184024
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379734769194031
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379734769231277
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379734769242466
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379734769434121
+
+sb1_THREAD -284064896 => Heard '120' at 1657379734770004697
+
+pb1_THREAD -284064896 => Publishing '121' at 1657379739769093160
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379739769166025
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379739769198309
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379739769208346
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379739769246049
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379739769256712
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379739769484814
+
+sb1_THREAD -284064896 => Heard '121' at 1657379739770072116
+
+pb1_THREAD -284064896 => Publishing '122' at 1657379744769074897
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379744769149563
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379744769182912
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379744769202303
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379744769243311
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379744769254960
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379744769444906
+
+sb1_THREAD -284064896 => Heard '122' at 1657379744770040064
+
+pb1_THREAD -284064896 => Publishing '123' at 1657379749769041525
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379749769116269
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379749769147679
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379749769168054
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379749769235878
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379749769248646
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379749769438983
+
+sb1_THREAD -284064896 => Heard '123' at 1657379749770028479
+
+pb1_THREAD -284064896 => Publishing '124' at 1657379754768982975
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379754769057412
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379754769089400
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379754769108862
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379754769148820
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379754769162005
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379754769384267
+
+sb1_THREAD -284064896 => Heard '124' at 1657379754769995289
+
+pb1_THREAD -284064896 => Publishing '125' at 1657379759768959482
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379759769028761
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379759769061583
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379759769081854
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379759769121901
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379759769134035
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379759769302175
+
+sb1_THREAD -284064896 => Heard '125' at 1657379759769935270
+
+pb1_THREAD -284064896 => Publishing '126' at 1657379764768918767
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379764768989510
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379764769022411
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379764769493096
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379764769560542
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379764769572957
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379764769731801
+
+sb1_THREAD -284064896 => Heard '126' at 1657379764770280282
+
+pb1_THREAD -284064896 => Publishing '127' at 1657379769768866180
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379769768936323
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379769768967564
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379769768989116
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379769769028700
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379769769041799
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379769769193166
+
+sb1_THREAD -284064896 => Heard '127' at 1657379769769806963
+
+pb1_THREAD -284064896 => Publishing '128' at 1657379774768658954
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379774768728707
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379774768761968
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379774768782310
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379774768823357
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379774768869409
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379774769038688
+
+sb1_THREAD -284064896 => Heard '128' at 1657379774769666123
+
+pb1_THREAD -284064896 => Publishing '129' at 1657379779768898831
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379779768985235
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379779769031932
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379779769045127
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379779769089996
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379779769103204
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379779769291620
+
+sb1_THREAD -284064896 => Heard '129' at 1657379779769905457
+
+pb1_THREAD -284064896 => Publishing '130' at 1657379784768534426
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379784768597931
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379784768627776
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379784768646137
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379784768684201
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379784768694944
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379784768848570
+
+sb1_THREAD -284064896 => Heard '130' at 1657379784769375719
+
+pb1_THREAD -284064896 => Publishing '131' at 1657379789768538571
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379789768605628
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379789768639138
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379789768978656
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379789769025202
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379789769037291
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379789769183808
+
+sb1_THREAD -284064896 => Heard '131' at 1657379789769741000
+
+pb1_THREAD -284064896 => Publishing '132' at 1657379794768682644
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379794768753014
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379794768784071
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379794768804914
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379794768846249
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379794768858022
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379794769025385
+
+sb1_THREAD -284064896 => Heard '132' at 1657379794769655955
+
+pb1_THREAD -284064896 => Publishing '133' at 1657379799768635129
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379799768706065
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379799768740685
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379799768760173
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379799768799393
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379799768811485
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379799768977871
+
+sb1_THREAD -284064896 => Heard '133' at 1657379799769657657
+
+pb1_THREAD -284064896 => Publishing '134' at 1657379804768384798
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379804768455144
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379804768490364
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379804768512083
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379804768552755
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379804768565770
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379804768735612
+
+sb1_THREAD -284064896 => Heard '134' at 1657379804769309117
+
+pb1_THREAD -284064896 => Publishing '135' at 1657379809768542363
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379809768615897
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379809768646916
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379809769115190
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379809769178509
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379809769191528
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379809769374111
+
+sb1_THREAD -284064896 => Heard '135' at 1657379809769922796
+
+pb1_THREAD -284064896 => Publishing '136' at 1657379814768515101
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379814768589407
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379814768625699
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379814768644657
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379814768685121
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379814768697183
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379814768866896
+
+sb1_THREAD -284064896 => Heard '136' at 1657379814769489577
+
+pb1_THREAD -284064896 => Publishing '137' at 1657379819768475894
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379819768545366
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379819768580430
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379819768602925
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379819768643310
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379819768655011
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379819768822807
+
+sb1_THREAD -284064896 => Heard '137' at 1657379819769456323
+
+pb1_THREAD -284064896 => Publishing '138' at 1657379824768418434
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379824768488020
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379824768518327
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379824768538386
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379824768577659
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379824768589854
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379824768754866
+
+sb1_THREAD -284064896 => Heard '138' at 1657379824769387109
+
+pb1_THREAD -284064896 => Publishing '139' at 1657379829768387814
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379829768460781
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379829768547003
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379829768560802
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379829768601396
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379829768613396
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379829768776497
+
+sb1_THREAD -284064896 => Heard '139' at 1657379829769443489
+
+pb1_THREAD -284064896 => Publishing '140' at 1657379834768199350
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379834768272920
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379834768305617
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379834768330395
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379834769024313
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379834769051563
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379834769215713
+
+sb1_THREAD -284064896 => Heard '140' at 1657379834769800115
+
+pb1_THREAD -284064896 => Publishing '141' at 1657379839768131934
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379839768197725
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379839768233614
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379839768251928
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379839768290786
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379839768301808
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379839768454057
+
+sb1_THREAD -284064896 => Heard '141' at 1657379839768948610
+
+pb1_THREAD -284064896 => Publishing '142' at 1657379844768446495
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379844768519626
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379844768552740
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379844768933086
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379844768987706
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379844769000576
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379844769163154
+
+sb1_THREAD -284064896 => Heard '142' at 1657379844769748412
+
+pb1_THREAD -284064896 => Publishing '143' at 1657379849768236369
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379849768321299
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379849768364638
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657379849768377087
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657379849768416376
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657379849768427699
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657379849768583441
+
+sb1_THREAD -284064896 => Heard '143' at 1657379849769184122
+
+pb1_THREAD -284064896 => Publishing '144' at 1657379854768168588
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379854768242499
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379854768274358
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379854768305198
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379854768382036
+
+sb1_THREAD -284064896 => Heard '144' at 1657379854768804033
+
+pb1_THREAD -284064896 => Publishing '145' at 1657379859767950565
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379859768027380
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379859768060397
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379859768078218
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379859768117939
+
+sb1_THREAD -284064896 => Heard '145' at 1657379859768531168
+
+pb1_THREAD -284064896 => Publishing '146' at 1657379864768276348
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379864768350995
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379864768385967
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379864768934341
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379864769003707
+
+sb1_THREAD -284064896 => Heard '146' at 1657379864769464518
+
+pb1_THREAD -284064896 => Publishing '147' at 1657379869768052269
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379869768121093
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379869768151805
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379869768170217
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379869768212389
+
+sb1_THREAD -284064896 => Heard '147' at 1657379869768672028
+
+pb1_THREAD -284064896 => Publishing '148' at 1657379874768017194
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379874768090596
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379874768121939
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379874768152004
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379874768195025
+
+sb1_THREAD -284064896 => Heard '148' at 1657379874768703758
+
+pb1_THREAD -284064896 => Publishing '149' at 1657379879767951416
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379879768023311
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379879768056175
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379879768076300
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379879768119437
+
+sb1_THREAD -284064896 => Heard '149' at 1657379879768632416
+
+pb1_THREAD -284064896 => Publishing '150' at 1657379884767924118
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379884767993357
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379884768024299
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379884768044282
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379884768086258
+
+sb1_THREAD -284064896 => Heard '150' at 1657379884768607196
+
+pb1_THREAD -284064896 => Publishing '151' at 1657379889767678562
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379889767752208
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379889767788477
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379889767809224
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379889767855207
+
+sb1_THREAD -284064896 => Heard '151' at 1657379889768387921
+
+pb1_THREAD -284064896 => Publishing '152' at 1657379894767699344
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379894767764708
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379894767795656
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379894767836005
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379894767878618
+
+sb1_THREAD -284064896 => Heard '152' at 1657379894768291537
+
+pb1_THREAD -284064896 => Publishing '153' at 1657379899767807012
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379899767876446
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379899767909201
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379899767928945
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379899767971959
+
+sb1_THREAD -284064896 => Heard '153' at 1657379899768468424
+
+pb1_THREAD -284064896 => Publishing '154' at 1657379904767763539
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379904767831554
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379904767862205
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379904767881774
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379904767924863
+
+sb1_THREAD -284064896 => Heard '154' at 1657379904768379437
+
+pb1_THREAD -284064896 => Publishing '155' at 1657379909767579198
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379909767648747
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379909767680552
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379909767699048
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379909767741178
+
+sb1_THREAD -284064896 => Heard '155' at 1657379909768246814
+
+pb1_THREAD -284064896 => Publishing '156' at 1657379914767676763
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379914767747101
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379914767778719
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379914767800130
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379914767842645
+
+sb1_THREAD -284064896 => Heard '156' at 1657379914768302269
+
+pb1_THREAD -284064896 => Publishing '157' at 1657379919767651797
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379919767723713
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379919767754455
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379919767774626
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379919767817155
+
+sb1_THREAD -284064896 => Heard '157' at 1657379919768316385
+
+pb1_THREAD -284064896 => Publishing '158' at 1657379924767582792
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379924767651748
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379924767683610
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379924768105921
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379924768175769
+
+sb1_THREAD -284064896 => Heard '158' at 1657379924768603177
+
+pb1_THREAD -284064896 => Publishing '159' at 1657379929767562364
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379929767636227
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379929767667819
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379929767687014
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379929767729059
+
+sb1_THREAD -284064896 => Heard '159' at 1657379929768189607
+
+pb1_THREAD -284064896 => Publishing '160' at 1657379934767691890
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379934767787979
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379934767827849
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379934767839436
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379934767880352
+
+sb1_THREAD -284064896 => Heard '160' at 1657379934768338146
+
+pb1_THREAD -284064896 => Publishing '161' at 1657379939767699134
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379939767772728
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379939767808559
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379939767829987
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379939767877702
+
+sb1_THREAD -284064896 => Heard '161' at 1657379939768438108
+
+pb1_THREAD -284064896 => Publishing '162' at 1657379944767246547
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379944767315551
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379944767347235
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379944767365733
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379944767406448
+
+sb1_THREAD -284064896 => Heard '162' at 1657379944767848032
+
+pb1_THREAD -284064896 => Publishing '163' at 1657379949767240360
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379949767301377
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379949767331512
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379949767349392
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379949767390048
+
+sb1_THREAD -284064896 => Heard '163' at 1657379949767794090
+
+pb1_THREAD -284064896 => Publishing '164' at 1657379954767206104
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379954767275143
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379954767308069
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379954767328092
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379954767370750
+
+sb1_THREAD -284064896 => Heard '164' at 1657379954767831963
+
+pb1_THREAD -284064896 => Publishing '165' at 1657379959767158373
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379959767229642
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379959767260562
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379959767279426
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379959767321811
+
+sb1_THREAD -284064896 => Heard '165' at 1657379959767779198
+
+pb1_THREAD -284064896 => Publishing '166' at 1657379964767264585
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379964767341611
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379964767379009
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379964767398801
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379964767441991
+
+sb1_THREAD -284064896 => Heard '166' at 1657379964767940737
+
+pb1_THREAD -284064896 => Publishing '167' at 1657379969767094602
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379969767162834
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379969767195610
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379969767216402
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379969767260000
+
+sb1_THREAD -284064896 => Heard '167' at 1657379969767792195
+
+pb1_THREAD -284064896 => Publishing '168' at 1657379974767293026
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379974767364463
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379974767396169
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379974767873549
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379974767949072
+
+sb1_THREAD -284064896 => Heard '168' at 1657379974768385865
+
+pb1_THREAD -284064896 => Publishing '169' at 1657379979767302866
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379979767374188
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379979767406266
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379979767840808
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379979767909790
+
+sb1_THREAD -284064896 => Heard '169' at 1657379979768331743
+
+pb1_THREAD -284064896 => Publishing '170' at 1657379984767309755
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379984767379957
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379984767411271
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379984767431754
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379984767474299
+
+sb1_THREAD -284064896 => Heard '170' at 1657379984767928391
+
+pb1_THREAD -284064896 => Publishing '171' at 1657379989767027391
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379989767096703
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379989767127344
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379989767147173
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379989767189823
+
+sb1_THREAD -284064896 => Heard '171' at 1657379989767684738
+
+pb1_THREAD -284064896 => Publishing '172' at 1657379994767121037
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379994767198705
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379994767245589
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379994767259848
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379994767305931
+
+sb1_THREAD -284064896 => Heard '172' at 1657379994767878537
+
+pb1_THREAD -284064896 => Publishing '173' at 1657379999766819506
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657379999766890587
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657379999766923858
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657379999766943352
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657379999766983592
+
+sb1_THREAD -284064896 => Heard '173' at 1657379999767348592
+
+pb1_THREAD -284064896 => Publishing '174' at 1657380004766786864
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380004766855405
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380004766887174
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380004766906420
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380004766948909
+
+sb1_THREAD -284064896 => Heard '174' at 1657380004767358748
+
+pb1_THREAD -284064896 => Publishing '175' at 1657380009766753827
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380009766823593
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380009766857379
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380009766877051
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380009766942922
+
+sb1_THREAD -284064896 => Heard '175' at 1657380009767353511
+
+pb1_THREAD -284064896 => Publishing '176' at 1657380014766692476
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380014766760861
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380014766792878
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380014766813087
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380014766855148
+
+sb1_THREAD -284064896 => Heard '176' at 1657380014767273078
+
+pb1_THREAD -284064896 => Publishing '177' at 1657380019766669837
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380019766739820
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380019766771315
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380019766790508
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380019766832428
+
+sb1_THREAD -284064896 => Heard '177' at 1657380019767241477
+
+pb1_THREAD -284064896 => Publishing '178' at 1657380024766735826
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380024766808899
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380024766841546
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380024767400593
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380024767467382
+
+sb1_THREAD -284064896 => Heard '178' at 1657380024767880889
+
+pb1_THREAD -284064896 => Publishing '179' at 1657380029766590321
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380029766660387
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380029766695817
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380029766715803
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380029766759331
+
+sb1_THREAD -284064896 => Heard '179' at 1657380029767159156
+
+pb1_THREAD -284064896 => Publishing '180' at 1657380034766444176
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380034766499477
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380034766521692
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380034766531118
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380034766580336
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380034766589588
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380034766703991
+
+sb1_THREAD -284064896 => Heard '180' at 1657380034767132281
+
+pb1_THREAD -284064896 => Publishing '181' at 1657380039766514401
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380039766584983
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380039766616936
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380039766637521
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380039766676920
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380039766690875
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380039766892165
+
+sb1_THREAD -284064896 => Heard '181' at 1657380039767481504
+
+pb1_THREAD -284064896 => Publishing '182' at 1657380044766465377
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380044766536632
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380044766567537
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380044766603200
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380044766644429
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380044766657437
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380044766859115
+
+sb1_THREAD -284064896 => Heard '182' at 1657380044767766316
+
+pb1_THREAD -284064896 => Publishing '183' at 1657380049766361211
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380049766436321
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380049766484940
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380049766498085
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380049766540436
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380049766554168
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380049766710016
+
+sb1_THREAD -284064896 => Heard '183' at 1657380049767321804
+
+pb1_THREAD -284064896 => Publishing '184' at 1657380054766375254
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380054766441925
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380054766471751
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380054766490539
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380054766528535
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380054766539502
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380054766703766
+
+sb1_THREAD -284064896 => Heard '184' at 1657380054767200195
+
+pb1_THREAD -284064896 => Publishing '185' at 1657380059766341096
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380059766411155
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380059766442911
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380059818608561
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380059818688747
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380059818702269
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380059818866991
+
+sb1_THREAD -284064896 => Heard '185' at 1657380059819497016
+
+pb1_THREAD -284064896 => Publishing '186' at 1657380064766293237
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380064766362809
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380064766394139
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380064766413868
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380064766454346
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380064766467044
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380064766631875
+
+sb1_THREAD -284064896 => Heard '186' at 1657380064767214139
+
+pb1_THREAD -284064896 => Publishing '187' at 1657380069766223864
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380069766302053
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380069766365556
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380069766378175
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380069766418885
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380069766453204
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380069766624045
+
+sb1_THREAD -284064896 => Heard '187' at 1657380069767210767
+
+pb1_THREAD -284064896 => Publishing '188' at 1657380074766190052
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380074766258737
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380074766289892
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380074766308887
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380074766349226
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380074766360121
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380074766525783
+
+sb1_THREAD -284064896 => Heard '188' at 1657380074767113887
+
+pb1_THREAD -284064896 => Publishing '189' at 1657380079766152627
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380079766224654
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380079766257126
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380079766657086
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380079766721016
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380079766732893
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380079766891588
+
+sb1_THREAD -284064896 => Heard '189' at 1657380079767445580
+
+pb1_THREAD -284064896 => Publishing '190' at 1657380084766056698
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380084766125928
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380084766157115
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380084766565366
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380084766629059
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380084766641746
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380084766801316
+
+sb1_THREAD -284064896 => Heard '190' at 1657380084767329715
+
+pb1_THREAD -284064896 => Publishing '191' at 1657380089766059164
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380089766128278
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380089766159898
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380089766180479
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380089766219102
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380089766232914
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380089766387599
+
+sb1_THREAD -284064896 => Heard '191' at 1657380089766974366
+
+pb1_THREAD -284064896 => Publishing '192' at 1657380094766370477
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380094766447573
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380094766479390
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380094766499033
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380094766537817
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380094766550220
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380094766739304
+
+sb1_THREAD -284064896 => Heard '192' at 1657380094767342368
+
+pb1_THREAD -284064896 => Publishing '193' at 1657380099765979118
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380099766048453
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380099766080668
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380099766556497
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380099766631413
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380099766645739
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380099766806811
+
+sb1_THREAD -284064896 => Heard '193' at 1657380099767353879
+
+pb1_THREAD -284064896 => Publishing '194' at 1657380104765949713
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380104766031113
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380104766065311
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380104766554864
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380104766617432
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380104766629692
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380104766793134
+
+sb1_THREAD -284064896 => Heard '194' at 1657380104767326120
+
+pb1_THREAD -284064896 => Publishing '195' at 1657380109765839357
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380109765899784
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380109765930129
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380109765969288
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380109766008995
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380109766019784
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380109766175353
+
+sb1_THREAD -284064896 => Heard '195' at 1657380109766669206
+
+pb1_THREAD -284064896 => Publishing '196' at 1657380114765838923
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380114765912764
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380114765948529
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380114765969380
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380114766008782
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380114766021240
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380114766190954
+
+sb1_THREAD -284064896 => Heard '196' at 1657380114766775366
+
+pb1_THREAD -284064896 => Publishing '197' at 1657380119765855849
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380119765929472
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380119765961052
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380119765981792
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380119766022953
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380119766035206
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380119766206273
+
+sb1_THREAD -284064896 => Heard '197' at 1657380119766809355
+
+pb1_THREAD -284064896 => Publishing '198' at 1657380124765889705
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380124765961400
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380124765997077
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380124766016087
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380124766056253
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380124766068229
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380124766233688
+
+sb1_THREAD -284064896 => Heard '198' at 1657380124766843317
+
+pb1_THREAD -284064896 => Publishing '199' at 1657380129765872855
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380129765941621
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380129765972627
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380129765991427
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380129766030968
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380129766042996
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380129766196276
+
+sb1_THREAD -284064896 => Heard '199' at 1657380129766779631
+
+pb1_THREAD -284064896 => Publishing '200' at 1657380134765885863
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380134765960842
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380134765992565
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380134766012405
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380134766052358
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380134766064882
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380134766233826
+
+sb1_THREAD -284064896 => Heard '200' at 1657380134766833446
+
+pb1_THREAD -284064896 => Publishing '201' at 1657380139765890066
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380139765959471
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380139765991100
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380139766012366
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380139766053787
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380139766067291
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380139766237078
+
+sb1_THREAD -284064896 => Heard '201' at 1657380139766822890
+
+pb1_THREAD -284064896 => Publishing '202' at 1657380144765925505
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380144766001065
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380144766037130
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380144766057978
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380144766097946
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380144766110375
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380144766283726
+
+sb1_THREAD -284064896 => Heard '202' at 1657380144766887161
+
+pb1_THREAD -284064896 => Publishing '203' at 1657380149765776675
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380149765856329
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380149765888512
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380149765929812
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380149765974401
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380149765987174
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380149766151316
+
+sb1_THREAD -284064896 => Heard '203' at 1657380149766738246
+
+pb1_THREAD -284064896 => Publishing '204' at 1657380154765851782
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380154765922379
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380154765954552
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380154766447236
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380154766523978
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380154766539758
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380154766747317
+
+sb1_THREAD -284064896 => Heard '204' at 1657380154767312661
+
+pb1_THREAD -284064896 => Publishing '205' at 1657380159765477681
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380159765544755
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380159765575487
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380159765593947
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380159765631780
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380159765642619
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380159765800709
+
+sb1_THREAD -284064896 => Heard '205' at 1657380159766337426
+
+pb1_THREAD -284064896 => Publishing '206' at 1657380164765579820
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380164765655133
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380164765688643
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380164765708685
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380164765747986
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380164765760669
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380164765930127
+
+sb1_THREAD -284064896 => Heard '206' at 1657380164766598837
+
+pb1_THREAD -284064896 => Publishing '207' at 1657380169765583525
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380169765662015
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380169765696883
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380169765717900
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380169765757336
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380169765770056
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380169765927963
+
+sb1_THREAD -284064896 => Heard '207' at 1657380169766618417
+
+pb1_THREAD -284064896 => Publishing '208' at 1657380174765529397
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380174765604128
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380174765635526
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380174766047430
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380174766114887
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380174766150161
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380174766312728
+
+sb1_THREAD -284064896 => Heard '208' at 1657380174766858140
+
+pb1_THREAD -284064896 => Publishing '209' at 1657380179765531237
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380179765606502
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380179765672021
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380179765685043
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380179765726355
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380179765739100
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380179765903492
+
+sb1_THREAD -284064896 => Heard '209' at 1657380179766538489
+
+pb1_THREAD -284064896 => Publishing '210' at 1657380184765493563
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380184765565322
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380184765596435
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380184765616596
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380184765655603
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380184765668549
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380184765838813
+
+sb1_THREAD -284064896 => Heard '210' at 1657380184766510459
+
+pb1_THREAD -284064896 => Publishing '211' at 1657380189765447751
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380189765520504
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380189765552552
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380189765930863
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380189765982728
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380189765995011
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380189766161490
+
+sb1_THREAD -284064896 => Heard '211' at 1657380189766712884
+
+pb1_THREAD -284064896 => Publishing '212' at 1657380194765390854
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380194765463256
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380194765495493
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380194765515546
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380194765555337
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380194765567962
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380194765733613
+
+sb1_THREAD -284064896 => Heard '212' at 1657380194766405879
+
+pb1_THREAD -284064896 => Publishing '213' at 1657380199765445070
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380199765518820
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380199765551226
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380199765571484
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380199765612324
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380199765624546
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380199765812184
+
+sb1_THREAD -284064896 => Heard '213' at 1657380199766437687
+
+pb1_THREAD -284064896 => Publishing '214' at 1657380204765276352
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380204765372811
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380204765414486
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380204765424629
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380204765463150
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380204765484559
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380204765658646
+
+sb1_THREAD -284064896 => Heard '214' at 1657380204766359106
+
+pb1_THREAD -284064896 => Publishing '215' at 1657380209765064294
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380209765131767
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380209765162963
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380209765172862
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380209765210803
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380209765221330
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380209765399395
+
+sb1_THREAD -284064896 => Heard '215' at 1657380209766057571
+
+pb1_THREAD -284064896 => Publishing '216' at 1657380214764971368
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380214765036904
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380214765067125
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380214765077143
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380214765116547
+
+sb1_THREAD -284064896 => Heard '216' at 1657380214765509514
+
+pb1_THREAD -284064896 => Publishing '217' at 1657380219765088489
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380219765157674
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380219765188402
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380219765198382
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380219765237460
+
+sb1_THREAD -284064896 => Heard '217' at 1657380219765655378
+
+pb1_THREAD -284064896 => Publishing '218' at 1657380224765095199
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380224765164824
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380224765195978
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380224765205895
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380224765244853
+
+sb1_THREAD -284064896 => Heard '218' at 1657380224765659684
+
+pb1_THREAD -284064896 => Publishing '219' at 1657380229765061197
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380229765128990
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380229765159859
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380229765179015
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380229765222261
+
+sb1_THREAD -284064896 => Heard '219' at 1657380229765698102
+
+pb1_THREAD -284064896 => Publishing '220' at 1657380234765290124
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380234765374079
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380234765412017
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380234765432581
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380234765502263
+
+sb1_THREAD -284064896 => Heard '220' at 1657380234765997501
+
+pb1_THREAD -284064896 => Publishing '221' at 1657380239765639728
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380239765710182
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380239765743311
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380239765763750
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380239765807623
+
+sb1_THREAD -284064896 => Heard '221' at 1657380239766306054
+
+pb1_THREAD -284064896 => Publishing '222' at 1657380244766096005
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380244766165192
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380244766197323
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380244766653608
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380244766726652
+
+sb1_THREAD -284064896 => Heard '222' at 1657380244767159826
+
+pb1_THREAD -284064896 => Publishing '223' at 1657380249766364175
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380249766442984
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380249766504433
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380249766517356
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380249766559727
+
+sb1_THREAD -284064896 => Heard '223' at 1657380249766940495
+
+pb1_THREAD -284064896 => Publishing '224' at 1657380254766708516
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380254766780782
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380254766812957
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380254766831539
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380254766875110
+
+sb1_THREAD -284064896 => Heard '224' at 1657380254767330200
+
+pb1_THREAD -284064896 => Publishing '225' at 1657380259767023880
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380259767099675
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380259767131001
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380259767151398
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380259767194015
+
+sb1_THREAD -284064896 => Heard '225' at 1657380259767709781
+
+pb1_THREAD -284064896 => Publishing '226' at 1657380264767509014
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380264767587013
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380264767621856
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380264767644585
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380264767693490
+
+sb1_THREAD -284064896 => Heard '226' at 1657380264768104019
+
+pb1_THREAD -284064896 => Publishing '227' at 1657380269767592395
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380269767653831
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380269767682217
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380269767700828
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380269767739224
+
+sb1_THREAD -284064896 => Heard '227' at 1657380269768034750
+
+pb1_THREAD -284064896 => Publishing '228' at 1657380274767700766
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380274767772680
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380274768277930
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380274768304154
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380274768347341
+
+sb1_THREAD -284064896 => Heard '228' at 1657380274768760374
+
+pb1_THREAD -284064896 => Publishing '229' at 1657380279768025318
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380279768093973
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380279768124671
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380279768545265
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380279768611170
+
+sb1_THREAD -284064896 => Heard '229' at 1657380279769034094
+
+pb1_THREAD -284064896 => Publishing '230' at 1657380284768331796
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380284768407981
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380284768439971
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380284768461150
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380284768506740
+
+sb1_THREAD -284064896 => Heard '230' at 1657380284768923291
+
+pb1_THREAD -284064896 => Publishing '231' at 1657380289768628969
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380289768701890
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380289768733678
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380289768754034
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380289768795369
+
+sb1_THREAD -284064896 => Heard '231' at 1657380289769204947
+
+pb1_THREAD -284064896 => Publishing '232' at 1657380294768934052
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380294769005170
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380294769037559
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380294769058076
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380294769100446
+
+sb1_THREAD -284064896 => Heard '232' at 1657380294769540218
+
+pb1_THREAD -284064896 => Publishing '233' at 1657380299769100398
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380299769169673
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380299769200867
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380299769221229
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380299769263711
+
+sb1_THREAD -284064896 => Heard '233' at 1657380299769703082
+
+pb1_THREAD -284064896 => Publishing '234' at 1657380304769639945
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380304769712222
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380304769745259
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380304769764673
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380304769808654
+
+sb1_THREAD -284064896 => Heard '234' at 1657380304770213734
+
+pb1_THREAD -284064896 => Publishing '235' at 1657380309769796208
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380309769864873
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380309769895804
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380309769916901
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380309769960195
+
+sb1_THREAD -284064896 => Heard '235' at 1657380309770363668
+
+pb1_THREAD -284064896 => Publishing '236' at 1657380314769976004
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380314770047720
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380314770080044
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380314770509314
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380314770578661
+
+sb1_THREAD -284064896 => Heard '236' at 1657380314771036606
+
+pb1_THREAD -284064896 => Publishing '237' at 1657380319770517503
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380319770595437
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380319770630181
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380319770653515
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380319770696023
+
+sb1_THREAD -284064896 => Heard '237' at 1657380319771041419
+
+pb1_THREAD -284064896 => Publishing '238' at 1657380324770738459
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380324770802891
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380324770831830
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380324770850688
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380324770891044
+
+sb1_THREAD -284064896 => Heard '238' at 1657380324771190033
+
+pb1_THREAD -284064896 => Publishing '239' at 1657380329771017943
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380329771086633
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380329771119986
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380329771138940
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380329771182959
+
+sb1_THREAD -284064896 => Heard '239' at 1657380329771531362
+
+pb1_THREAD -284064896 => Publishing '240' at 1657380334771278356
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380334771350954
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380334771382794
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380334772038839
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380334772121318
+
+sb1_THREAD -284064896 => Heard '240' at 1657380334772583815
+
+pb1_THREAD -284064896 => Publishing '241' at 1657380339771321915
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380339771395674
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380339771463146
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380339771476718
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380339771518806
+
+sb1_THREAD -284064896 => Heard '241' at 1657380339771932796
+
+pb1_THREAD -284064896 => Publishing '242' at 1657380344771589393
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380344771662732
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380344771695140
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380344771716514
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380344771759617
+
+sb1_THREAD -284064896 => Heard '242' at 1657380344772167897
+
+pb1_THREAD -284064896 => Publishing '243' at 1657380349771800480
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380349771873100
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380349771905526
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380349771925561
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380349771968161
+
+sb1_THREAD -284064896 => Heard '243' at 1657380349772417902
+
+pb1_THREAD -284064896 => Publishing '244' at 1657380354772099756
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380354772173057
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380354772207328
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380354772635747
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380354772702558
+
+sb1_THREAD -284064896 => Heard '244' at 1657380354773125449
+
+pb1_THREAD -284064896 => Publishing '245' at 1657380359772382137
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380359772460911
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380359772494478
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380359772514648
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380359772558582
+
+sb1_THREAD -284064896 => Heard '245' at 1657380359772962602
+
+pb1_THREAD -284064896 => Publishing '246' at 1657380364772636402
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380364772707994
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380364772739688
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380364772758664
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380364772802760
+
+sb1_THREAD -284064896 => Heard '246' at 1657380364773206658
+
+pb1_THREAD -284064896 => Publishing '247' at 1657380369772912104
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380369772986628
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380369773020115
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380369773040841
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380369773087359
+
+sb1_THREAD -284064896 => Heard '247' at 1657380369773587309
+
+pb1_THREAD -284064896 => Publishing '248' at 1657380374773282496
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380374773373737
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380374773417619
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380374773427673
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380374773466166
+
+sb1_THREAD -284064896 => Heard '248' at 1657380374773768824
+
+pb1_THREAD -284064896 => Publishing '249' at 1657380379773299496
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380379773398879
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380379773444447
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380379773455998
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380379773497813
+
+sb1_THREAD -284064896 => Heard '249' at 1657380379773913489
+
+pb1_THREAD -284064896 => Publishing '250' at 1657380384773773295
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380384773841328
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380384773870462
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380384773888313
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380384773928301
+
+sb1_THREAD -284064896 => Heard '250' at 1657380384774226013
+
+pb1_THREAD -284064896 => Publishing '251' at 1657380389773885772
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380389773958589
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380389773991951
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => start-timestamp: 1657380389774557470
+
+|rclcpp|publisher.hpp|br2|publish->[do_intra_process_ros_message_publish]|Pt-2 => end-timestamp: 1657380389774630364
+
+sb1_THREAD -284064896 => Heard '251' at 1657380389775097867
+
+pb1_THREAD -284064896 => Publishing '252' at 1657380394774263155
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380394774338645
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380394774400542
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380394774413838
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380394774452404
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380394774465581
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380394774632660
+
+sb1_THREAD -284064896 => Heard '252' at 1657380394775161342
+
+pb1_THREAD -284064896 => Publishing '253' at 1657380399774192791
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380399774263483
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380399774299365
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380399774320020
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380399774359461
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380399774372013
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380399774572184
+
+sb1_THREAD -284064896 => Heard '253' at 1657380399775167311
+
+pb1_THREAD -284064896 => Publishing '254' at 1657380404774692652
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380404774764471
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380404774797208
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380404775288858
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380404775354272
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380404775368196
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380404775534379
+
+sb1_THREAD -284064896 => Heard '254' at 1657380404776138590
+
+pb1_THREAD -284064896 => Publishing '255' at 1657380409774927553
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380409774998472
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380409775029538
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380409775048905
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380409775089996
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380409775102106
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380409775252825
+
+sb1_THREAD -284064896 => Heard '255' at 1657380409775855423
+
+pb1_THREAD -284064896 => Publishing '256' at 1657380414774924461
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380414774997391
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380414775032128
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380414775052177
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380414775091985
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380414775104279
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380414775273625
+
+sb1_THREAD -284064896 => Heard '256' at 1657380414775903833
+
+pb1_THREAD -284064896 => Publishing '257' at 1657380419775375660
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380419775444262
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380419775475550
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380419775496006
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380419775535750
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380419775548429
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380419775718330
+
+sb1_THREAD -284064896 => Heard '257' at 1657380419776329810
+
+pb1_THREAD -284064896 => Publishing '258' at 1657380424775446948
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380424775521180
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380424775571328
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380424775594029
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380424775639941
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380424775655709
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380424775839207
+
+sb1_THREAD -284064896 => Heard '258' at 1657380424776468201
+
+pb1_THREAD -284064896 => Publishing '259' at 1657380429775783337
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380429775852304
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380429775881949
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380429775899875
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380429775936585
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380429775947507
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380429776097704
+
+sb1_THREAD -284064896 => Heard '259' at 1657380429776534449
+
+pb1_THREAD -284064896 => Publishing '260' at 1657380434775962355
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380434776071937
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380434776105647
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380434776115688
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380434776150821
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380434776161176
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380434776308479
+
+sb1_THREAD -284064896 => Heard '260' at 1657380434776748639
+
+pb1_THREAD -284064896 => Publishing '261' at 1657380439776055103
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380439776129707
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380439776163773
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380439776183168
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380439776223791
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380439776236868
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380439776401618
+
+sb1_THREAD -284064896 => Heard '261' at 1657380439776997395
+
+pb1_THREAD -284064896 => Publishing '262' at 1657380444776269113
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380444776341022
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380444776405738
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380444776418289
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380444776457161
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380444776469214
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380444776639793
+
+sb1_THREAD -284064896 => Heard '262' at 1657380444777246370
+
+pb1_THREAD -284064896 => Publishing '263' at 1657380449776500066
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380449776572731
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380449776604126
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380449776614477
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380449776650672
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380449776661082
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380449776813901
+
+sb1_THREAD -284064896 => Heard '263' at 1657380449777425209
+
+pb1_THREAD -284064896 => Publishing '264' at 1657380454776714425
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380454776784082
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380454776814573
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380454776824790
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380454776861745
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380454776872302
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380454777039110
+
+sb1_THREAD -284064896 => Heard '264' at 1657380454777657316
+
+pb1_THREAD -284064896 => Publishing '265' at 1657380459776904926
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380459776975334
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380459777006642
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380459777016146
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380459777052432
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380459777063513
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380459777227895
+
+sb1_THREAD -284064896 => Heard '265' at 1657380459777846489
+
+pb1_THREAD -284064896 => Publishing '266' at 1657380464777254985
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380464777324449
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380464777383280
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380464777409214
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380464777452681
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380464777466893
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380464777638563
+
+sb1_THREAD -284064896 => Heard '266' at 1657380464778226426
+
+pb1_THREAD -284064896 => Publishing '267' at 1657380469777318277
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380469777413862
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380469777446364
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380469778148805
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380469778253226
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380469778266737
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380469778435867
+
+sb1_THREAD -284064896 => Heard '267' at 1657380469779049908
+
+pb1_THREAD -284064896 => Publishing '268' at 1657380474777570753
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380474777642122
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380474777674773
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380474777693739
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380474777734084
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380474777746580
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380474777915314
+
+sb1_THREAD -284064896 => Heard '268' at 1657380474778536726
+
+pb1_THREAD -284064896 => Publishing '269' at 1657380479777591654
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380479777661569
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380479778197385
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380479778229506
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380479778272203
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380479778284697
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380479778441903
+
+sb1_THREAD -284064896 => Heard '269' at 1657380479778988747
+
+pb1_THREAD -284064896 => Publishing '270' at 1657380484777995231
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380484778075341
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380484778104947
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380484778122994
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380484778159630
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380484778170053
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380484778335945
+
+sb1_THREAD -284064896 => Heard '270' at 1657380484778853368
+
+pb1_THREAD -284064896 => Publishing '271' at 1657380489778226809
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380489778301652
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380489778331648
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380489778351000
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380489778389588
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380489778402144
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380489778553605
+
+sb1_THREAD -284064896 => Heard '271' at 1657380489779141981
+
+pb1_THREAD -284064896 => Publishing '272' at 1657380494778445694
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380494778515652
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380494778548554
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380494778567753
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380494778608001
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380494778644445
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380494778810003
+
+sb1_THREAD -284064896 => Heard '272' at 1657380494779367405
+
+pb1_THREAD -284064896 => Publishing '273' at 1657380499778288802
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380499778362281
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380499778397289
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380499778415760
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380499778456919
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380499778469212
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380499778633386
+
+sb1_THREAD -284064896 => Heard '273' at 1657380499779272716
+
+pb1_THREAD -284064896 => Publishing '274' at 1657380504778572178
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380504778651928
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380504778684460
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380504778703439
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380504778743556
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380504778754839
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380504778921738
+
+sb1_THREAD -284064896 => Heard '274' at 1657380504779567462
+
+pb1_THREAD -284064896 => Publishing '275' at 1657380509778785374
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380509778856996
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380509778891669
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380509778911308
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380509778952255
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380509778965547
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380509779131914
+
+sb1_THREAD -284064896 => Heard '275' at 1657380509779796924
+
+pb1_THREAD -284064896 => Publishing '276' at 1657380514779202965
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380514779275342
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380514779307519
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380514779327572
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380514779367338
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380514779379681
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380514779551388
+
+sb1_THREAD -284064896 => Heard '276' at 1657380514780226643
+
+pb1_THREAD -284064896 => Publishing '277' at 1657380519779009982
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380519779076341
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380519779106586
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380519779125190
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380519779163490
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380519779174311
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380519779323311
+
+sb1_THREAD -284064896 => Heard '277' at 1657380519779885592
+
+pb1_THREAD -284064896 => Publishing '278' at 1657380524779368766
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380524779443244
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380524779477770
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380524779951917
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380524780017098
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380524780030098
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380524780183854
+
+sb1_THREAD -284064896 => Heard '278' at 1657380524780794889
+
+pb1_THREAD -284064896 => Publishing '279' at 1657380529779730595
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380529779803637
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380529779853209
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380529779874801
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380529779916456
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380529779929425
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380529780092278
+
+sb1_THREAD -284064896 => Heard '279' at 1657380529780772574
+
+pb1_THREAD -284064896 => Publishing '280' at 1657380534779899116
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380534779971870
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380534780001103
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380534780020156
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380534780057095
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380534780067708
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380534780223505
+
+sb1_THREAD -284064896 => Heard '280' at 1657380534780751562
+
+pb1_THREAD -284064896 => Publishing '281' at 1657380539779820242
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380539779894515
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380539779958122
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380539779970275
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380539780009115
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380539780021086
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380539780189963
+
+sb1_THREAD -284064896 => Heard '281' at 1657380539780894863
+
+pb1_THREAD -284064896 => Publishing '282' at 1657380544780081790
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380544780152853
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380544780184110
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380544780204953
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380544780243627
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380544780256843
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380544780432594
+
+sb1_THREAD -284064896 => Heard '282' at 1657380544781145461
+
+pb1_THREAD -284064896 => Publishing '283' at 1657380549780069749
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380549780136746
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380549780208649
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380549780219653
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380549780257109
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380549780267901
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380549780514540
+
+sb1_THREAD -284064896 => Heard '283' at 1657380549781175535
+
+pb1_THREAD -284064896 => Publishing '284' at 1657380554780362849
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380554780432267
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380554780463617
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380554780846713
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380554780914019
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380554780927983
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380554781092843
+
+sb1_THREAD -284064896 => Heard '284' at 1657380554781669170
+
+pb1_THREAD -284064896 => Publishing '285' at 1657380559780424498
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380559780490880
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380559780521067
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380559780539233
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380559780576614
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380559780587611
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380559780743453
+
+sb1_THREAD -284064896 => Heard '285' at 1657380559781278221
+
+pb1_THREAD -284064896 => Publishing '286' at 1657380564780592937
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380564780669072
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380564781133108
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380564781160264
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380564781202041
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380564781213104
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380564781390726
+
+sb1_THREAD -284064896 => Heard '286' at 1657380564781944316
+
+pb1_THREAD -284064896 => Publishing '287' at 1657380569780940032
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => start-timestamp: 1657380569781013864
+
+|rclcpp|publisher.hpp|do num compare|Pt-1 => end-timestamp: 1657380569781046494
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => start-timestamp: 1657380569781066908
+
+|rclcpp|publisher.hpp|br1|publish->[do_intra_process_ros_message_publish_and_return_shared]|Pt-2 => end-timestamp: 1657380569781106641
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => start-timestamp: 1657380569781119026
+
+|rclcpp|publisher.hpp|br1|publish->[do_inter_process_publish]|Pt-3 => end-timestamp: 1657380569781273114
+
+sb1_THREAD -284064896 => Heard '287' at 1657380569781976967
