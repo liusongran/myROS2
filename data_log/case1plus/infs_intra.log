@@ -1,192 +1,3 @@
-start~~~~~~~~~~~~~~~~~~~~~~~~
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328005904808
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328006475549
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328006484191
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006487377
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006630631
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328006636507
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328006649977
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328006665649
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328006668421
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006670385
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006704423
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328006707898
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328006711984
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328006800597
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328006806965
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006809068
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006823680
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328006827353
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328006833869
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328006846253
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328006848900
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006850758
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006861293
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328006864351
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328006867688
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328006956654
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328006962735
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006964801
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328006978592
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328006982056
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328006988355
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007000094
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007002742
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007004586
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007014674
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007023860
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007027706
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007117721
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007123970
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007126138
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007140123
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007143705
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007149986
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007161899
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007164528
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007166432
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007176540
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007179672
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007183178
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007271233
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007277335
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007279467
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007285598
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007288453
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007294759
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007350718
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007356771
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007358999
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007379265
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007382138
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007402102
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007472963
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007479208
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007481552
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007487919
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007491867
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007498524
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007556960
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007563299
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007565568
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007571703
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007579136
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007585973
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007644817
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328007650947
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007653183
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328007659299
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328007663296
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007673433
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328007724521
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328007731598
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328500559583
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328500645504
-
-|rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|Pt-1 => start-timestamp: 1658123328500661186
-
-pb1_THREAD -811879552 => Publishing '0' at 1658123328500690259
-
-|rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|Pt-1 => end-timestamp: 1658123328500774225
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328500812118
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328500848331
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123328501545804
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123328501594862
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328501605863
-
-sb0_THREAD -811879552 => Heard '0' at 1658123328501625596
-
-|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123328501640718
-
-|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123328501654954
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123328501675839
 
@@ -8176,54 +7987,37 @@ sb0_THREAD -811879552 => Heard '213' at 1658123435013052848
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123435013087431
 
+
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435013107596
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435013469891
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435013516298
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435501317109
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123435501409846
-
 |rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|Pt-1 => start-timestamp: 1658123435501425864
-
 pb1_THREAD -811879552 => Publishing '214' at 1658123435501451727
-
 |rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|Pt-1 => end-timestamp: 1658123435501774417
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123435501834921
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435501869073
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435502403796
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123435502447647
-
 |rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => start-timestamp: 1658123435502460721
-
 |rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|Pt-2 => end-timestamp: 1658123435502578833
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123435502610252
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435502631453
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435502707241
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => start-timestamp: 1658123435502728888
-
 |rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123435502739793
-
 sb0_THREAD -811879552 => Heard '214' at 1658123435502760641
-
 |rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|Pt-3 => start-timestamp: 1658123435502775950
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|Pt-2 => end-timestamp: 1658123435502788412
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435502804790
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123435503106665
-
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => start-timestamp: 1658123435503154120
 
 |rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|Pt-1 => end-timestamp: 1658123436001264812
