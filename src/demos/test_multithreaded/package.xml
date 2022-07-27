@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>test_multithreaded</name>
+  <name>my_test</name>
   <version>0.0.1</version>
   <description>Package containing example of how to implement a multithreaded executor</description>
   <maintainer email="liusongran@cse.neu.edu.cn">Songran Liu</maintainer>

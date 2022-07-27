@@ -514,27 +514,21 @@ Executor::set_memory_strategy(rclcpp::memory_strategy::MemoryStrategy::SharedPtr
 void
 Executor::execute_any_executable(AnyExecutable & any_exec)
 {
+#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
+std::thread::id thread_id = std::this_thread::get_id();
+#endif
   if (!spinning.load()) {
     return;
   }
   if (any_exec.timer) {
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
-std::thread::id thread_id = std::this_thread::get_id();
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     execute_timer(any_exec.timer);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_timer]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   }
   if (any_exec.subscription) {
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     execute_subscription(any_exec.subscription);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_subscription]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   }
   if (any_exec.service) {
     execute_service(any_exec.service);
@@ -543,25 +537,17 @@ printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[execute_sub
     execute_client(any_exec.client);
   }
   if (any_exec.waitable) {
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|PT-3=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|PT-3=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     any_exec.waitable->execute(any_exec.data);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|PT-3=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[any_exec.waitable->execute]|PT-3=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   }
   // Reset the callback_group, regardless of type
   any_exec.callback_group->can_be_taken_from().store(true);
   // Wake the wait, because it may need to be recalculated or work that
   // was previously blocked is now available.
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[rcl_trigger_guard_condition]|PT-4=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[rcl_trigger_guard_condition]|PT-4=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   rcl_ret_t ret = rcl_trigger_guard_condition(&interrupt_guard_condition_);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[rcl_trigger_guard_condition]|PT-4=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[execute_any_executable]->[rcl_trigger_guard_condition]|PT-4=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   if (ret != RCL_RET_OK) {
     throw_from_rcl_error(ret, "Failed to trigger guard condition from execute_any_executable");
   }
@@ -928,33 +914,23 @@ Executor::get_next_executable(AnyExecutable & any_executable, std::chrono::nanos
   // TODO(wjwwood): improve run to run efficiency of this function
 #if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
 std::thread::id thread_id = std::this_thread::get_id();
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
 #endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   success = get_next_ready_executable(any_executable);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   // If there are none
   if (!success) {
     // Wait for subscriptions or timers to work on
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     wait_for_work(timeout);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     if (!spinning.load()) {
       return false;
     }
     // Try again
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     success = get_next_ready_executable(any_executable);
-#if (DT_RCLCPP_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
   }
   return success;
 }

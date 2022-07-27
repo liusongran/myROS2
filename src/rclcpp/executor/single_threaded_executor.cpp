@@ -32,27 +32,21 @@ SingleThreadedExecutor::spin()
     throw std::runtime_error("spin() called while already spinning");
   }
   RCLCPP_SCOPE_EXIT(this->spinning.store(false); );
-  while (rclcpp::ok(this->context_) && spinning.load()) {
 
 #if (DT_RCLCPP_SIG_EXECUTOR==1) //MARK:-start
-std::thread::id thread_id = std::this_thread::get_id();
-printf("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+  std::thread::id thread_id = std::this_thread::get_id();
 #endif
+  while (rclcpp::ok(this->context_) && spinning.load()) {
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     rclcpp::AnyExecutable any_executable;
     bool temp;
     temp = get_next_executable(any_executable);
-#if (DT_RCLCPP_SIG_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
-
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+    
     if (temp) {
-#if (DT_RCLCPP_SIG_EXECUTOR==1) //MARK:-start
-printf("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
       execute_any_executable(any_executable);
-#if (DT_RCLCPP_SIG_EXECUTOR==1) //MARK:-end
-printf("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-#endif
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
     }
 
   }
