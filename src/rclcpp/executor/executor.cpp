@@ -693,9 +693,14 @@ Executor::execute_client(
 void
 Executor::wait_for_work(std::chrono::nanoseconds timeout)
 {
+#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
+std::thread::id thread_id = std::this_thread::get_id();
+uint64_t ulProber = 0;
+#endif
   {
-    std::lock_guard<std::mutex> guard(mutex_);
-
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[wait_for_work]->[wait_for_work_mutex_]|PT-9=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+    std::lock_guard<std::mutex> guard(mutex_);        //MARK: wait_for_work() - level3
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[wait_for_work]->[wait_for_work_mutex_]|PT-9=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     // Check weak_nodes_ to find any callback group that is not owned
     // by an executor and add it to the list of callbackgroups for
     // collect entities. Also exchange to false so it is not
@@ -843,7 +848,13 @@ Executor::get_next_ready_executable_from_map(
   weak_groups_to_nodes)
 {
   bool success = false;
-  std::lock_guard<std::mutex> guard{mutex_};
+#if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
+std::thread::id thread_id = std::this_thread::get_id();
+uint64_t ulProber = 0;
+#endif
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_ready_executable_from_map]->[wait_for_mutex_]|PT-8=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+  std::lock_guard<std::mutex> guard{mutex_};          //MARK: get_next_ready_executable_from_map() - level3
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_ready_executable_from_map]->[wait_for_mutex_]|PT-8=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
   // Check the timers to see if there are any that are ready
   memory_strategy_->get_next_timer(any_executable, weak_groups_to_nodes);
   if (any_executable.timer) {
@@ -914,23 +925,24 @@ Executor::get_next_executable(AnyExecutable & any_executable, std::chrono::nanos
   // TODO(wjwwood): improve run to run efficiency of this function
 #if (DT_RCLCPP_EXECUTOR==1) //MARK:-start
 std::thread::id thread_id = std::this_thread::get_id();
+uint64_t ulProber = 0;
 #endif
-TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-  success = get_next_ready_executable(any_executable);
-TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+  success = get_next_ready_executable(any_executable);          //MARK: get_next_ready_executable() - level2
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable]|PT-5=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
   // If there are none
   if (!success) {
     // Wait for subscriptions or timers to work on
-TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-    wait_for_work(timeout);
-TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+    wait_for_work(timeout);                                     //MARK: wait_for_work() - level2
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[wait_for_work]|PT-6=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     if (!spinning.load()) {
       return false;
     }
     // Try again
-TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-    success = get_next_ready_executable(any_executable);
-TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+    success = get_next_ready_executable(any_executable);        //MARK: get_next_ready_executable2() - level2
+TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_executable]->[get_next_ready_executable2]|PT-7=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
   }
   return success;
 }

@@ -79,21 +79,21 @@ MultiThreadedExecutor::run(size_t)
 {
 #if (DT_RCLCPP_MUL_EXECUTOR==1) //MARK:-start
 std::thread::id thread_id = std::this_thread::get_id();
+uint64_t ulProber = 0;
 #endif
   while (rclcpp::ok(this->context_) && spinning.load()) {
     rclcpp::AnyExecutable any_exec;
     {
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_upper]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_upper]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
       auto low_priority_wait_mutex = wait_mutex_.get_low_priority_lockable();
-      std::lock_guard<MutexTwoPriorities::LowPriorityLockable> wait_lock(low_priority_wait_mutex);
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_upper]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+      std::lock_guard<MutexTwoPriorities::LowPriorityLockable> wait_lock(low_priority_wait_mutex);    //MARK: wait_lock_upper() - level1
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_upper]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
       if (!rclcpp::ok(this->context_) || !spinning.load()) {
         return;
       }
       bool temp;
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-      temp = get_next_executable(any_exec, next_exec_timeout_);
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+      temp = get_next_executable(any_exec, next_exec_timeout_);                                       //MARK: get_next_executable() - level1
       if (!temp) {
         continue;
       }
@@ -109,24 +109,25 @@ TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next
         }
         scheduled_timers_.insert(any_exec.timer);
       }
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     }
     if (yield_before_execute_) {
       std::this_thread::yield();
     }
 
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[execute_any_executable]|PT-3=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-    execute_any_executable(any_exec);
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[execute_any_executable]|PT-3=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[execute_any_executable]|PT-3=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+    execute_any_executable(any_exec);                                                                 //MARK: execute_any_executable() - level1
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[execute_any_executable]|PT-3=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
 
     if (any_exec.timer) {
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_lower]|PT-4=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
-      auto high_priority_wait_mutex = wait_mutex_.get_high_priority_lockable();
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_lower]|PT-4=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
+      auto high_priority_wait_mutex = wait_mutex_.get_high_priority_lockable();                       //MARK: wait_lock_lower() - level1
       std::lock_guard<MutexTwoPriorities::HighPriorityLockable> wait_lock(high_priority_wait_mutex);
       auto it = scheduled_timers_.find(any_exec.timer);
       if (it != scheduled_timers_.end()) {
         scheduled_timers_.erase(it);
       }
-TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_lower]|PT-4=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_lock_lower]|PT-4=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     }
     // Clear the callback_group to prevent the AnyExecutable destructor from
     // resetting the callback group `can_be_taken_from`
