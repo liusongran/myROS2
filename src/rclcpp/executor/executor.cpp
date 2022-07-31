@@ -700,7 +700,7 @@ uint64_t ulProber = 0;
 #endif
   {
 TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[wait_for_work]->[wait_for_work_mutex_]|PT-9=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
-    std::lock_guard<std::mutex> guard(mutex_);        //MARK: wait_for_work() - level3
+    std::lock_guard<std::mutex> guard(mutex_);        //MARK: wait_for_work_mutex_() - level3
 TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[wait_for_work]->[wait_for_work_mutex_]|PT-9=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     // Check weak_nodes_ to find any callback group that is not owned
     // by an executor and add it to the list of callbackgroups for
@@ -854,7 +854,7 @@ std::thread::id thread_id = std::this_thread::get_id();
 uint64_t ulProber = 0;
 #endif
 TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_ready_executable_from_map]->[wait_for_mutex_]|PT-8=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
-  std::lock_guard<std::mutex> guard{mutex_};          //MARK: get_next_ready_executable_from_map() - level3
+  std::lock_guard<std::mutex> guard{mutex_};          //MARK: wait_for_mutex_() - level3
 TRACE_LIU_EXECUTOR("\n|THREAD: %d|rclcpp|executor.cpp|[get_next_ready_executable_from_map]->[wait_for_mutex_]|PT-8=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
   // Check the timers to see if there are any that are ready
   memory_strategy_->get_next_timer(any_executable, weak_groups_to_nodes);

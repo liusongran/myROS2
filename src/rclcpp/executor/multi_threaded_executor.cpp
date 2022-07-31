@@ -95,6 +95,7 @@ TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[wait_loc
 TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
       temp = get_next_executable(any_exec, next_exec_timeout_);                                       //MARK: get_next_executable() - level1
       if (!temp) {
+  TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
         continue;
       }
       if (any_exec.timer) {
@@ -105,6 +106,7 @@ TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next
           if (any_exec.callback_group) {
             any_exec.callback_group->can_be_taken_from().store(true);
           }
+    TRACE_LIU_MUL("\n|THREAD: %d|rclcpp|multi_threaded_executor.cpp|[run]->[get_next_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
           continue;
         }
         scheduled_timers_.insert(any_exec.timer);
