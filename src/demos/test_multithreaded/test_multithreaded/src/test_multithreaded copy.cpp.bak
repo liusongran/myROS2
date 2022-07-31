@@ -1,93 +1,113 @@
 #include <chrono>
-#include <cinttypes>
-#include <cstdio>
+#include <functional>
 #include <memory>
 #include <string>
-#include <utility>
-#include "unistd.h"
-#include "thread"
+#include <thread>
 
 #include "rclcpp/rclcpp.hpp"
-#include "std_msgs/msg/int32.hpp"
+#include "std_msgs/msg/string.hpp"
 
 #include "/home/srliu/myProject/mySpace/src/profile_liu/myProfile.hpp"
 
 using namespace std::chrono_literals;
 
-struct Producer : public rclcpp::Node
+//#define RCLCPP_INFO_LIU               RCLCPP_INFO
+#define RCLCPP_INFO_LIU(logger, ...)    {}  
+/*
+ * A small convenience function for converting a thread ID to a string
+ */
+std::string string_thread_id() {
+    auto hashed = std::hash<std::thread::id>()(std::this_thread::get_id());
+    return std::to_string(hashed);
+}
+
+
+/* MARK: Node0
+ * For this example, we will be creating a publishing node like the one in minimal_publisher.
+ * We will have a single subscriber node running 2 threads. Each thread loops at different speeds, and
+ * just repeats what it sees from the publisher to the screen.
+ */
+class PublisherNode : public rclcpp::Node 
 {
-    Producer(const std::string & name, const std::string & output)
-    : Node(name, rclcpp::NodeOptions().use_intra_process_comms(false))
-    {
-    // Create a publisher on the output topic.
-    pub_ = this->create_publisher<std_msgs::msg::Int32>(output, 10);
-    std::weak_ptr<std::remove_pointer<decltype(pub_.get())>::type> captured_pub = pub_;
-    // Create a timer which publishes on the output topic at ~1Hz.
-    auto callback = [captured_pub]() -> void {
-        auto pub_ptr = captured_pub.lock();
-        if (!pub_ptr) {
-            return;
-        }
-        static int32_t count = 0;
-        std_msgs::msg::Int32::UniquePtr msg(new std_msgs::msg::Int32()); 
-        msg->data = count++;
-
-        std::thread::id thread_id = std::this_thread::get_id();
-        printf("\npb1_THREAD %d => Publishing '%d' at %ld\n",  (*(uint32_t*)&thread_id), msg->data, get_clocktime());
-        //printf("\nsb1_THREAD %d => Publishing '%d' at %lld in Process:%d.\n",  (*(uint32_t*)&thread_id), msg->data, get_clocktime(), getpid());
-
-        pub_ptr->publish(std::move(msg));
+public:
+    PublisherNode()
+    : Node("PublisherNode", rclcpp::NodeOptions().use_intra_process_comms(true)), count_(0) {
+    publisher_ = this->create_publisher<std_msgs::msg::String>("srliu_test", 10);
+    auto timer_callback =
+    [this]() -> void {
+        auto message = std_msgs::msg::String();
+        message.data = "Hello World! " + std::to_string(this->count_++);
+        // Extract current thread
+        auto curr_thread = string_thread_id();
+        // Prep display message
+        RCLCPP_INFO_LIU(
+            this->get_logger(), "\n<<THREAD %s>> Publishing '%s'",
+            curr_thread.c_str(), message.data.c_str());
+            this->publisher_->publish(message);
         };
-    timer_ = this->create_wall_timer(10ms, callback);
+    timer_ = this->create_wall_timer(2ms, timer_callback);
     }
 
-    rclcpp::Publisher<std_msgs::msg::Int32>::SharedPtr pub_;
+private:
     rclcpp::TimerBase::SharedPtr timer_;
+    rclcpp::Publisher<std_msgs::msg::String>::SharedPtr publisher_;
+    size_t count_;
 };
 
 
+// MARK: node
 struct Consumer : public rclcpp::Node
 {
-    Consumer(const std::string & name, const std::string & input)
-    : Node(name, rclcpp::NodeOptions().use_intra_process_comms(false))
+public:
+    Consumer(const std::string & name)
+    : Node(name, rclcpp::NodeOptions().use_intra_process_comms(true))
     {
-    // Create a subscription on the input topic which prints on receipt of new messages.
-    sub_ = this->create_subscription<std_msgs::msg::Int32>(
-        input,
-        10,
-        [](std_msgs::msg::Int32::UniquePtr msg) {
-
-        std::thread::id thread_id = std::this_thread::get_id();
-        printf("\nsb1_THREAD %d => Heard '%d' at %ld\n",  (*(uint32_t*)&thread_id), msg->data, get_clocktime());
-        //printf("\nsb1_THREAD %d => Heard '%d' at %lld in Process:%d.\n",  (*(uint32_t*)&thread_id), msg->data, get_clocktime(), getpid());
-        });
+        callback_group_subscriber1_ = this->create_callback_group(
+        rclcpp::CallbackGroupType::MutuallyExclusive);
+        auto sub1_opt = rclcpp::SubscriptionOptions();
+        sub1_opt.callback_group = callback_group_subscriber1_;
+        sub_ = this->create_subscription<std_msgs::msg::String>(
+        "srliu_test",
+        rclcpp::QoS(10),
+        std::bind(
+            &Consumer::subscriber_cb,
+            this,
+            std::placeholders::_1), 
+            sub1_opt
+        );
     }
 
-    rclcpp::Subscription<std_msgs::msg::Int32>::SharedPtr sub_;
+private:
+    std::string timing_string() {
+        rclcpp::Time time = this->now();
+        return std::to_string(time.nanoseconds());
+    }
+
+    void subscriber_cb(const std_msgs::msg::String::UniquePtr msg) {
+    auto message_received_at = timing_string();
+    // Extract current thread
+    RCLCPP_INFO_LIU(
+        this->get_logger(), "THREAD %s => Heard '%s' at %s",
+        string_thread_id().c_str(), msg->data.c_str(), message_received_at.c_str());
+    }
+
+    rclcpp::CallbackGroup::SharedPtr callback_group_subscriber1_;
+    rclcpp::Subscription<std_msgs::msg::String>::SharedPtr sub_;
 };
 
 
 
 int main(int argc, char * argv[])
 {
-    setvbuf(stdout, NULL, _IONBF, BUFSIZ);
-    FILE *fp = freopen("/home/srliu/myProject/myROS2/data_log/case1plus/doTrace_4mul_inter_0.5s.log", "w", stdout);
-    if(NULL == fp){
-        printf("failed~\r\n");
-        return -1;
-    }
-    LOG_LIU("|main|1. start to init............\r\n");
     rclcpp::init(argc, argv);
 
-    LOG_LIU("|main|2. start to creat executor............\r\n");
     // You MUST use the MultiThreadedExecutor to use, well, multiple threads
-    //rclcpp::executors::SingleThreadedExecutor executor;
-    rclcpp::executors::MultiThreadedExecutor executor(rclcpp::ExecutorOptions(), 4, true);
-
-    LOG_LIU("|main|3. start to creat nodes............\r\n");
-    auto producer = std::make_shared<Producer>("producer", "srliu_test");
-    auto consumer0 = std::make_shared<Consumer>("consumer0", "srliu_test");
-    /*auto consumer1  = std::make_shared<Consumer>("consumer1");
+    rclcpp::executors::SingleThreadedExecutor executor;
+    //rclcpp::executors::MultiThreadedExecutor executor(rclcpp::ExecutorOptions(), 80, true);
+    auto pubnode = std::make_shared<PublisherNode>();
+    
+    /*auto consumer0  = std::make_shared<Consumer>("consumer0");
+    auto consumer1  = std::make_shared<Consumer>("consumer1");
     auto consumer2  = std::make_shared<Consumer>("consumer2");
     auto consumer3  = std::make_shared<Consumer>("consumer3");
     auto consumer4  = std::make_shared<Consumer>("consumer4");
@@ -141,10 +161,12 @@ int main(int argc, char * argv[])
     auto consumer48 = std::make_shared<Consumer>("consumer48");
     auto consumer49 = std::make_shared<Consumer>("consumer49");*/
 
-    LOG_LIU("|main|4. start to add nodes............\r\n");
-    executor.add_node(producer);
-    executor.add_node(consumer0);
-    /*executor.add_node(consumer1);
+
+
+    executor.add_node(pubnode);
+
+    /*executor.add_node(consumer0);
+    executor.add_node(consumer1);
     executor.add_node(consumer2);
     executor.add_node(consumer3);
     executor.add_node(consumer4);
@@ -198,12 +220,9 @@ int main(int argc, char * argv[])
     executor.add_node(consumer48);
     executor.add_node(consumer49);*/
     //executor.add_node(subnode);
-    LOG_LIU("|main|5. start to spin............\r\n");
 
-    printf("Let's GO!!!\r\n");
     executor.spin();
     rclcpp::shutdown();
 
-    fclose(fp);
     return 0;
 }

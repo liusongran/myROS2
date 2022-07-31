@@ -38,7 +38,7 @@ struct Producer : public rclcpp::Node
 
         pub_ptr->publish(std::move(msg));
         };
-    timer_ = this->create_wall_timer(10ms, callback);
+    timer_ = this->create_wall_timer(0.5s, callback);
     }
 
     rclcpp::Publisher<std_msgs::msg::Int32>::SharedPtr pub_;
@@ -71,7 +71,7 @@ struct Consumer : public rclcpp::Node
 int main(int argc, char * argv[])
 {
     setvbuf(stdout, NULL, _IONBF, BUFSIZ);
-    FILE *fp = freopen("/home/srliu/myProject/myROS2/data_log/case1plus/doTrace_4mul_inter_0.5s.log", "w", stdout);
+    FILE *fp = freopen("/home/srliu/myProject/myROS2/data_log/case1plus/doTrace_mul_inter_0.5s.log", "w", stdout);
     if(NULL == fp){
         printf("failed~\r\n");
         return -1;
@@ -82,7 +82,7 @@ int main(int argc, char * argv[])
     LOG_LIU("|main|2. start to creat executor............\r\n");
     // You MUST use the MultiThreadedExecutor to use, well, multiple threads
     //rclcpp::executors::SingleThreadedExecutor executor;
-    rclcpp::executors::MultiThreadedExecutor executor(rclcpp::ExecutorOptions(), 4, true);
+    rclcpp::executors::MultiThreadedExecutor executor(rclcpp::ExecutorOptions(), 20, true);
 
     LOG_LIU("|main|3. start to creat nodes............\r\n");
     auto producer = std::make_shared<Producer>("producer", "srliu_test");

@@ -33,19 +33,19 @@
 #endif
 
 #if (DT_RCLCPP_SIG_EXECUTOR==1)&&(DO_TRACE==1)
-    #define TRACE_LIU_SIG(...)      {ulProber = get_clocktime(); printf(__VA_ARGS__)}
+    #define TRACE_LIU_SIG(...)      {ulProber = get_clocktime(); printf(__VA_ARGS__);}
 #else
     #define TRACE_LIU_SIG(...)      {}
 #endif
 
 #if (DT_RCLCPP_MUL_EXECUTOR==1)&&(DO_TRACE==1)
-    #define TRACE_LIU_MUL(...)      {ulProber = get_clocktime(); printf(__VA_ARGS__)}
+    #define TRACE_LIU_MUL(...)      {ulProber = get_clocktime(); printf(__VA_ARGS__);}
 #else
     #define TRACE_LIU_MUL(...)      {}
 #endif
 
 #if (DT_RCLCPP_EXECUTOR==1)&&(DO_TRACE==1)
-    #define TRACE_LIU_EXECUTOR(...) {ulProber = get_clocktime(); printf(__VA_ARGS__)}
+    #define TRACE_LIU_EXECUTOR(...) {ulProber = get_clocktime(); printf(__VA_ARGS__);}
 #else
     #define TRACE_LIU_EXECUTOR(...) {}
 #endif

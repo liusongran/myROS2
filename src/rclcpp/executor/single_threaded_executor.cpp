@@ -35,18 +35,19 @@ SingleThreadedExecutor::spin()
 
 #if (DT_RCLCPP_SIG_EXECUTOR==1) //MARK:-start
   std::thread::id thread_id = std::this_thread::get_id();
+  uint64_t ulProber = 0;
 #endif
   while (rclcpp::ok(this->context_) && spinning.load()) {
-TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     rclcpp::AnyExecutable any_executable;
     bool temp;
     temp = get_next_executable(any_executable);
-TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[get_next_executable]|PT-1=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     
     if (temp) {
-TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> start-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
       execute_any_executable(any_executable);
-TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), get_clocktime());
+TRACE_LIU_SIG("\n|THREAD: %d|rclcpp|single_threaded_executor.cpp|[spin]->[execute_any_executable]|PT-2=> end-timestamp: %ld\n", (*(uint32_t*)&thread_id), ulProber);
     }
 
   }
